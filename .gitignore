@@ -1,0 +1,42 @@
+
+.ipynb_checkpoints
+.vscode
+.DS_Store
+
+# early express version of api- not currently in use.
+/limk-api
+/notes
+
+# GTFS dataset
+/google_transit_combined
+
+# React dependencies
+/limk-client/node_modules
+/limk-client/.pnp
+/limk-client.pnp.js
+
+# React testing
+/limk-client/coverage
+
+# React production
+/limk-client/build
+
+# React misc
+/limk-client/.DS_Store
+/limk-client/.env.local
+/limk-client/.env.development.local
+/limk-client/.env.test.local
+/limk-client/.env.production.local
+
+/limk-client/npm-debug.log*
+/limk-client/yarn-debug.log*
+/limk-client/yarn-error.log*
+
+# Flask
+/limk-flask-api/__pycache__
+/limk-flask-api/.env
+/limk-flask-api/__pycache__
+
+# Python scraper txt and env files
+/limk-data/*.txt
+/limk-data/.env
