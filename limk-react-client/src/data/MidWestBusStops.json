@@ -1,0 +1,5018 @@
+[
+  {
+    "stop_id": "8320B1521001",
+    "stop_name": "Birr, stop 152101",
+    "stop_lat": 53.0964053443,
+    "stop_lon": -7.910773371
+  },
+  {
+    "stop_id": "8320B1521801",
+    "stop_name": "Birr, stop 152181",
+    "stop_lat": 53.096108618,
+    "stop_lon": -7.9105798854
+  },
+  {
+    "stop_id": "8360B131091",
+    "stop_name": "O'Connors cross, stop 131091",
+    "stop_lat": 52.700164554,
+    "stop_lon": -8.6004831767
+  },
+  {
+    "stop_id": "8360B1340501",
+    "stop_name": "Glencragga Estate, stop 134051",
+    "stop_lat": 52.7654350587,
+    "stop_lon": -8.9015283008
+  },
+  {
+    "stop_id": "8360B3000201",
+    "stop_name": "Killanena Chruch, stop 300021",
+    "stop_lat": 52.9846988008,
+    "stop_lon": -8.7025929703
+  },
+  {
+    "stop_id": "8360B3000401",
+    "stop_name": "Caher Cross, stop 300041",
+    "stop_lat": 52.9615715856,
+    "stop_lon": -8.6622230017
+  },
+  {
+    "stop_id": "8360B3000501",
+    "stop_name": "Kilclaran Church, stop 300051",
+    "stop_lat": 52.9518362333,
+    "stop_lon": -8.6494996255
+  },
+  {
+    "stop_id": "8360B3000601",
+    "stop_name": "Feakle, stop 300061",
+    "stop_lat": 52.9262382077,
+    "stop_lon": -8.6480456159
+  },
+  {
+    "stop_id": "8360B3000701",
+    "stop_name": "Fortane Cross, stop 300071",
+    "stop_lat": 52.8718441488,
+    "stop_lon": -8.7018375028
+  },
+  {
+    "stop_id": "8360B3000801",
+    "stop_name": "Norrie Hencheys, stop 300081",
+    "stop_lat": 52.8568200493,
+    "stop_lon": -8.8511080998
+  },
+  {
+    "stop_id": "8360B3000901",
+    "stop_name": "Clooney, stop 300091",
+    "stop_lat": 52.8634676067,
+    "stop_lon": -8.867737855
+  },
+  {
+    "stop_id": "8360B3001001",
+    "stop_name": "Kennedys Cross, stop 300101",
+    "stop_lat": 53.0113534787,
+    "stop_lon": -8.6459968251
+  },
+  {
+    "stop_id": "8360B3001101",
+    "stop_name": "Spancil Hill Cross, stop 300111",
+    "stop_lat": 52.869477023,
+    "stop_lon": -8.8996140678
+  },
+  {
+    "stop_id": "8360B300121",
+    "stop_name": "Kennedys Cross, stop 300121",
+    "stop_lat": 53.0113269228,
+    "stop_lon": -8.64592192
+  },
+  {
+    "stop_id": "8360B3011101",
+    "stop_name": "Tulla Road, stop 301111",
+    "stop_lat": 52.8558539928,
+    "stop_lon": -8.9612067569
+  },
+  {
+    "stop_id": "8360B3011201",
+    "stop_name": "Flagmount, stop 301121",
+    "stop_lat": 52.9875018885,
+    "stop_lon": -8.6473685608
+  },
+  {
+    "stop_id": "8360B301131",
+    "stop_name": "Flagmount, stop 301131",
+    "stop_lat": 52.9873588278,
+    "stop_lon": -8.6472323807
+  },
+  {
+    "stop_id": "8360B3012001",
+    "stop_name": "Cooleen Bridge, stop 301201",
+    "stop_lat": 52.9238594745,
+    "stop_lon": -8.5905609675
+  },
+  {
+    "stop_id": "8360B3012101",
+    "stop_name": "Pepper's, stop 301211",
+    "stop_lat": 52.9307543125,
+    "stop_lon": -8.6372847819
+  },
+  {
+    "stop_id": "8360B3012202",
+    "stop_name": "McNamaras Pub, stop 301222",
+    "stop_lat": 52.9716065366,
+    "stop_lon": -8.6725895891
+  },
+  {
+    "stop_id": "8360B3012301",
+    "stop_name": "Duglawn Cross, stop 301231",
+    "stop_lat": 52.9772778643,
+    "stop_lon": -8.6867189379
+  },
+  {
+    "stop_id": "8360B3012401",
+    "stop_name": "Canny's Pub, stop 301241",
+    "stop_lat": 52.9894139631,
+    "stop_lon": -8.7031609941
+  },
+  {
+    "stop_id": "8360B3012501",
+    "stop_name": "Drumandora, stop 301251",
+    "stop_lat": 52.9969348833,
+    "stop_lon": -8.7332108688
+  },
+  {
+    "stop_id": "8360B331431",
+    "stop_name": "Bridgetown Church, stop 331431",
+    "stop_lat": 52.7619856568,
+    "stop_lon": -8.526317789
+  },
+  {
+    "stop_id": "8360B331781",
+    "stop_name": "Bridgetown Cross, stop 331781",
+    "stop_lat": 52.7539010556,
+    "stop_lon": -8.5087995315
+  },
+  {
+    "stop_id": "8360B3320001",
+    "stop_name": "Meelick, stop 332001",
+    "stop_lat": 52.7011352625,
+    "stop_lon": -8.6531844106
+  },
+  {
+    "stop_id": "8360B3320101",
+    "stop_name": "Larkins Cross, stop 332011",
+    "stop_lat": 52.6898307707,
+    "stop_lon": -8.6035364654
+  },
+  {
+    "stop_id": "8360B3320201",
+    "stop_name": "Parteen, stop 332021",
+    "stop_lat": 52.6970845197,
+    "stop_lon": -8.6139630231
+  },
+  {
+    "stop_id": "8360B3320301",
+    "stop_name": "Connors Cross, stop 332031",
+    "stop_lat": 52.7002879041,
+    "stop_lon": -8.6009731216
+  },
+  {
+    "stop_id": "8360B3320501",
+    "stop_name": "Blackwater Cross, stop 332051",
+    "stop_lat": 52.7098328779,
+    "stop_lon": -8.6028061179
+  },
+  {
+    "stop_id": "8360B3320601",
+    "stop_name": "Ardnacrusha, stop 332061",
+    "stop_lat": 52.7069466477,
+    "stop_lon": -8.618718342
+  },
+  {
+    "stop_id": "8360B333251",
+    "stop_name": "Larkins Cross, stop 333251",
+    "stop_lat": 52.6896066874,
+    "stop_lon": -8.6034150404
+  },
+  {
+    "stop_id": "8360B333261",
+    "stop_name": "Connors Cross, stop 333261",
+    "stop_lat": 52.7001452301,
+    "stop_lon": -8.6007492299
+  },
+  {
+    "stop_id": "8360B333271",
+    "stop_name": "Blackwater Cross, stop 333271",
+    "stop_lat": 52.7098068183,
+    "stop_lon": -8.6026281739
+  },
+  {
+    "stop_id": "8360B333281",
+    "stop_name": "Knockdonagh Cross, stop 333281",
+    "stop_lat": 52.7375483599,
+    "stop_lon": -8.6034993785
+  },
+  {
+    "stop_id": "8360B333291",
+    "stop_name": "Kilmore, stop 333291",
+    "stop_lat": 52.7540697796,
+    "stop_lon": -8.5924988753
+  },
+  {
+    "stop_id": "8360B333301",
+    "stop_name": "Fermoyle Cross, stop 333301",
+    "stop_lat": 52.7939982929,
+    "stop_lon": -8.6266844129
+  },
+  {
+    "stop_id": "8360B333311",
+    "stop_name": "Broadford, stop 333311",
+    "stop_lat": 52.8059556832,
+    "stop_lon": -8.6328037081
+  },
+  {
+    "stop_id": "8360B333321",
+    "stop_name": "O'Callaghans Mills, stop 333321",
+    "stop_lat": 52.8420008781,
+    "stop_lon": -8.6855328265
+  },
+  {
+    "stop_id": "8360B333331",
+    "stop_name": "Ryans Cross, stop 333331",
+    "stop_lat": 52.8493087857,
+    "stop_lon": -8.7053488592
+  },
+  {
+    "stop_id": "8360B333341",
+    "stop_name": "Keoghs Cross, stop 333341",
+    "stop_lat": 52.8740455956,
+    "stop_lon": -8.6818786825
+  },
+  {
+    "stop_id": "8360B333351",
+    "stop_name": "Bodyke, stop 333351",
+    "stop_lat": 52.8843091082,
+    "stop_lon": -8.5968284155
+  },
+  {
+    "stop_id": "8360B333361",
+    "stop_name": "Mountshannon, stop 333361",
+    "stop_lat": 52.9319260957,
+    "stop_lon": -8.4279902674
+  },
+  {
+    "stop_id": "8360B333371",
+    "stop_name": "Kilmurry, stop 333371",
+    "stop_lat": 52.7771353598,
+    "stop_lon": -8.7828105141
+  },
+  {
+    "stop_id": "8360B333381",
+    "stop_name": "O'Neils Gate, stop 333381",
+    "stop_lat": 52.7942560522,
+    "stop_lon": -8.7665110195
+  },
+  {
+    "stop_id": "8360B333391",
+    "stop_name": "Kilkishen, stop 333391",
+    "stop_lat": 52.8070230224,
+    "stop_lon": -8.7475579534
+  },
+  {
+    "stop_id": "8360B333401",
+    "stop_name": "Killane Cross, stop 333401",
+    "stop_lat": 52.8273269728,
+    "stop_lon": -8.7546283819
+  },
+  {
+    "stop_id": "8360B333601",
+    "stop_name": "Bridgetown Cross, stop 333601",
+    "stop_lat": 52.7541444161,
+    "stop_lon": -8.5086394164
+  },
+  {
+    "stop_id": "8360B333731",
+    "stop_name": "Meelick, stop 333731",
+    "stop_lat": 52.7009540486,
+    "stop_lon": -8.6534480292
+  },
+  {
+    "stop_id": "8360B333741",
+    "stop_name": "Elton Court, stop 333741",
+    "stop_lat": 52.7000751669,
+    "stop_lon": -8.6563496132
+  },
+  {
+    "stop_id": "8360B333751",
+    "stop_name": "Ballycannon Heights, stop 333751",
+    "stop_lat": 52.7030702876,
+    "stop_lon": -8.6494401952
+  },
+  {
+    "stop_id": "8360B333761",
+    "stop_name": "Fairyfield, stop 333761",
+    "stop_lat": 52.6946701134,
+    "stop_lon": -8.6185003799
+  },
+  {
+    "stop_id": "8360B333771",
+    "stop_name": "Bishop Murphy Park, stop 333771",
+    "stop_lat": 52.6970125439,
+    "stop_lon": -8.6139768076
+  },
+  {
+    "stop_id": "8360B333781",
+    "stop_name": "Firhill, stop 333781",
+    "stop_lat": 52.6982839094,
+    "stop_lon": -8.6079583508
+  },
+  {
+    "stop_id": "8360B333791",
+    "stop_name": "Firhill, stop 333791",
+    "stop_lat": 52.698203933,
+    "stop_lon": -8.6077797019
+  },
+  {
+    "stop_id": "8360B333801",
+    "stop_name": "Lakyle Heights, stop 333801",
+    "stop_lat": 52.708273498,
+    "stop_lon": -8.6107016744
+  },
+  {
+    "stop_id": "8360B333811",
+    "stop_name": "Lakyle Heights, stop 333811",
+    "stop_lat": 52.7083827943,
+    "stop_lon": -8.6104220334
+  },
+  {
+    "stop_id": "8360B333821",
+    "stop_name": "Ballycannon Heights, stop 333821",
+    "stop_lat": 52.7029085968,
+    "stop_lon": -8.6494229986
+  },
+  {
+    "stop_id": "8360B333831",
+    "stop_name": "Elton Court, stop 333831",
+    "stop_lat": 52.700067981,
+    "stop_lon": -8.6560240048
+  },
+  {
+    "stop_id": "8360B3345501",
+    "stop_name": "Foleys Cross, stop 334551",
+    "stop_lat": 52.8470651542,
+    "stop_lon": -8.4772877507
+  },
+  {
+    "stop_id": "8360B3346301",
+    "stop_name": "Ogonelloe, stop 334631",
+    "stop_lat": 52.8824322141,
+    "stop_lon": -8.4566380043
+  },
+  {
+    "stop_id": "8360B3346401",
+    "stop_name": "Raheen Cross, stop 334641",
+    "stop_lat": 52.8900217469,
+    "stop_lon": -8.5087573327
+  },
+  {
+    "stop_id": "8360B334651",
+    "stop_name": "Tuamgraney, stop 334651",
+    "stop_lat": 52.8970228865,
+    "stop_lon": -8.5393815096
+  },
+  {
+    "stop_id": "8360B335351",
+    "stop_name": "Hanrahans Cross, stop 335351",
+    "stop_lat": 52.9163066034,
+    "stop_lon": -9.3462707571
+  },
+  {
+    "stop_id": "8360B335361",
+    "stop_name": "Rineen School, stop 335361",
+    "stop_lat": 52.8896156495,
+    "stop_lon": -9.3911405938
+  },
+  {
+    "stop_id": "8360B335381",
+    "stop_name": "Spanish Point, stop 335381",
+    "stop_lat": 52.8375036227,
+    "stop_lon": -9.4295063958
+  },
+  {
+    "stop_id": "8360B335391",
+    "stop_name": "Quilty, stop 335391",
+    "stop_lat": 52.817018962,
+    "stop_lon": -9.4561177901
+  },
+  {
+    "stop_id": "8360B3354201",
+    "stop_name": "Doonbeg, stop 335421",
+    "stop_lat": 52.7302428452,
+    "stop_lon": -9.5296866999
+  },
+  {
+    "stop_id": "8360B3354501",
+    "stop_name": "Mullagh, stop 335451",
+    "stop_lat": 52.799906192,
+    "stop_lon": -9.4136355358
+  },
+  {
+    "stop_id": "8360B335641",
+    "stop_name": "Ballycorrick Bridge, stop 335641",
+    "stop_lat": 52.7367478083,
+    "stop_lon": -9.0618868149
+  },
+  {
+    "stop_id": "8360B335651",
+    "stop_name": "Lisheen Cross, stop 335651",
+    "stop_lat": 52.755428113,
+    "stop_lon": -9.0433486987
+  },
+  {
+    "stop_id": "8360B335661",
+    "stop_name": "kildysart Road, stop 335661",
+    "stop_lat": 52.8208718843,
+    "stop_lon": -8.9777936907
+  },
+  {
+    "stop_id": "8360B335781",
+    "stop_name": "Ballynacally, stop 335892",
+    "stop_lat": 52.718540433,
+    "stop_lon": -9.0675726366
+  },
+  {
+    "stop_id": "8360B335801",
+    "stop_name": "Kildysart, stop 335801",
+    "stop_lat": 52.6740646797,
+    "stop_lon": -9.1078920597
+  },
+  {
+    "stop_id": "8360B335831",
+    "stop_name": "Drumquin, stop 335831",
+    "stop_lat": 52.7666613973,
+    "stop_lon": -9.0260573734
+  },
+  {
+    "stop_id": "8360B3358401",
+    "stop_name": "Kildysart Rd, stop 335841",
+    "stop_lat": 52.8259104492,
+    "stop_lon": -8.9782480952
+  },
+  {
+    "stop_id": "8360B3358501",
+    "stop_name": "New Hall Cross, stop 335851",
+    "stop_lat": 52.7935124361,
+    "stop_lon": -9.0046554063
+  },
+  {
+    "stop_id": "8360B3358601",
+    "stop_name": "Drumquin, stop 335861",
+    "stop_lat": 52.7753285501,
+    "stop_lon": -9.0174128314
+  },
+  {
+    "stop_id": "8360B3358701",
+    "stop_name": "Lisheen Cross, stop 335871",
+    "stop_lat": 52.7508019467,
+    "stop_lon": -9.0491485807
+  },
+  {
+    "stop_id": "8360B3358801",
+    "stop_name": "Ballycorrick Bridge, stop 335881",
+    "stop_lat": 52.7367299683,
+    "stop_lon": -9.061871573
+  },
+  {
+    "stop_id": "8360B3358901",
+    "stop_name": "Ballynacally, stop 335891",
+    "stop_lat": 52.7183593741,
+    "stop_lon": -9.0677162365
+  },
+  {
+    "stop_id": "8360B3359101",
+    "stop_name": "The Square Kildysart, stop 335911",
+    "stop_lat": 52.6740138019,
+    "stop_lon": -9.1075654552
+  },
+  {
+    "stop_id": "8360B3359401",
+    "stop_name": "Coolmeen Cross, stop 335941",
+    "stop_lat": 52.6230028677,
+    "stop_lon": -9.1758143679
+  },
+  {
+    "stop_id": "8360B335951",
+    "stop_name": "Coolmeen Cross, stop 335951",
+    "stop_lat": 52.6595209402,
+    "stop_lon": -9.214356167
+  },
+  {
+    "stop_id": "8360B3359701",
+    "stop_name": "Labasheeda, stop 335971",
+    "stop_lat": 52.6202570741,
+    "stop_lon": -9.2559226196
+  },
+  {
+    "stop_id": "8360B3362001",
+    "stop_name": "Two Mile Inn, stop 336201",
+    "stop_lat": 52.6798843831,
+    "stop_lon": -8.69940731
+  },
+  {
+    "stop_id": "8360B3362701",
+    "stop_name": "O'Gorman's Cross, stop 336271",
+    "stop_lat": 52.7091932219,
+    "stop_lon": -8.7720488171
+  },
+  {
+    "stop_id": "8360B336291",
+    "stop_name": "Cappagh, stop 336291",
+    "stop_lat": 52.7310187141,
+    "stop_lon": -8.7934737383
+  },
+  {
+    "stop_id": "8360B3363101",
+    "stop_name": "Ballycasey Cross, stop 336311",
+    "stop_lat": 52.7152226133,
+    "stop_lon": -8.8622770293
+  },
+  {
+    "stop_id": "8360B336361",
+    "stop_name": "Smithstown Ind Est, stop 336361",
+    "stop_lat": 52.7160147399,
+    "stop_lon": -8.8731714349
+  },
+  {
+    "stop_id": "8360B336431",
+    "stop_name": "Culligans Cross, stop 336431",
+    "stop_lat": 52.8396572705,
+    "stop_lon": -8.9455754468
+  },
+  {
+    "stop_id": "8360B336441",
+    "stop_name": "Kellys Cross, stop 336441",
+    "stop_lat": 52.8341606553,
+    "stop_lon": -8.8819948671
+  },
+  {
+    "stop_id": "8360B336451",
+    "stop_name": "Culligans Cross, stop 336451",
+    "stop_lat": 52.8396764254,
+    "stop_lon": -8.9454274312
+  },
+  {
+    "stop_id": "8360B336481",
+    "stop_name": "Drim, stop 336481",
+    "stop_lat": 52.8341606553,
+    "stop_lon": -8.8819948671
+  },
+  {
+    "stop_id": "8360B336491",
+    "stop_name": "Quin, stop 336491",
+    "stop_lat": 52.8153053907,
+    "stop_lon": -8.8622092253
+  },
+  {
+    "stop_id": "8360B336501",
+    "stop_name": "Stop No. 336501",
+    "stop_lat": 52.7956325133,
+    "stop_lon": -8.8265738412
+  },
+  {
+    "stop_id": "8360B3365201",
+    "stop_name": "Sixmilebridge, stop 336521",
+    "stop_lat": 52.741167803,
+    "stop_lon": -8.7755756501
+  },
+  {
+    "stop_id": "8360B336541",
+    "stop_name": "Ministers Cross, stop 336541",
+    "stop_lat": 52.7205404336,
+    "stop_lon": -8.8131041518
+  },
+  {
+    "stop_id": "8360B3365501",
+    "stop_name": "Hurlers Cross, stop 336551",
+    "stop_lat": 52.709849937,
+    "stop_lon": -8.8470021597
+  },
+  {
+    "stop_id": "8360B3365601",
+    "stop_name": "Kilmurry, stop 336561",
+    "stop_lat": 52.7771065408,
+    "stop_lon": -8.7830916094
+  },
+  {
+    "stop_id": "8360B336571",
+    "stop_name": "Stop No. 336571",
+    "stop_lat": 52.7956144364,
+    "stop_lon": -8.8265883265
+  },
+  {
+    "stop_id": "8360B336581",
+    "stop_name": "Quin, stop 336581",
+    "stop_lat": 52.8154746296,
+    "stop_lon": -8.862420262
+  },
+  {
+    "stop_id": "8360B3365901",
+    "stop_name": "Ballycasey Park, stop 336591",
+    "stop_lat": 52.7128916118,
+    "stop_lon": -8.8713034737
+  },
+  {
+    "stop_id": "8360B3366001",
+    "stop_name": "Shannon Ind Est, stop 336601",
+    "stop_lat": 52.704259779,
+    "stop_lon": -8.8970412745
+  },
+  {
+    "stop_id": "8360B336631",
+    "stop_name": "Radisson Hotel, stop 336631",
+    "stop_lat": 52.682168311,
+    "stop_lon": -8.7128282659
+  },
+  {
+    "stop_id": "8360B336641",
+    "stop_name": "Cratloe, stop 336641",
+    "stop_lat": 52.6984143436,
+    "stop_lon": -8.7626561149
+  },
+  {
+    "stop_id": "8360B336651",
+    "stop_name": "Ballycasey Park, stop 336651",
+    "stop_lat": 52.7126789059,
+    "stop_lon": -8.8684428472
+  },
+  {
+    "stop_id": "8360B336661",
+    "stop_name": "John & Paul Church, stop 336661",
+    "stop_lat": 52.7094863996,
+    "stop_lon": -8.8662188224
+  },
+  {
+    "stop_id": "8360B336671",
+    "stop_name": "Shannon Town Hall, stop 336671",
+    "stop_lat": 52.7057382826,
+    "stop_lon": -8.8772279975
+  },
+  {
+    "stop_id": "8360B336681",
+    "stop_name": "Fearnog, stop 336681",
+    "stop_lat": 52.7082926866,
+    "stop_lon": -8.8818371555
+  },
+  {
+    "stop_id": "8360B336691",
+    "stop_name": "Pinewood, stop 336691",
+    "stop_lat": 52.7096784879,
+    "stop_lon": -8.8828270273
+  },
+  {
+    "stop_id": "8360B336701",
+    "stop_name": "Tullyglass, stop 336701",
+    "stop_lat": 52.7058807779,
+    "stop_lon": -8.8894685161
+  },
+  {
+    "stop_id": "8360B336711",
+    "stop_name": "Fergus Road Rbdt, stop 336711",
+    "stop_lat": 52.7032947693,
+    "stop_lon": -8.89151708
+  },
+  {
+    "stop_id": "8360B336721",
+    "stop_name": "Thormac Engineering, stop 336721",
+    "stop_lat": 52.7048573307,
+    "stop_lon": -8.9000277905
+  },
+  {
+    "stop_id": "8360B3367501",
+    "stop_name": "Raheen Cross, stop 336751",
+    "stop_lat": 52.8902106067,
+    "stop_lon": -8.5087298239
+  },
+  {
+    "stop_id": "8360B336761",
+    "stop_name": "Aon House, stop 336761",
+    "stop_lat": 52.7033507951,
+    "stop_lon": -8.9019351785
+  },
+  {
+    "stop_id": "8360B3367801",
+    "stop_name": "Clonlara, stop 336781",
+    "stop_lat": 52.7239338942,
+    "stop_lon": -8.5532607825
+  },
+  {
+    "stop_id": "8360B3368201",
+    "stop_name": "O'Briens Bridge, stop 336821",
+    "stop_lat": 52.7526350337,
+    "stop_lon": -8.5000450058
+  },
+  {
+    "stop_id": "8360B336831",
+    "stop_name": "Stop No. 336831",
+    "stop_lat": 52.7527789584,
+    "stop_lon": -8.5000170273
+  },
+  {
+    "stop_id": "8360B3368401",
+    "stop_name": "St Anne's School, stop 336841",
+    "stop_lat": 52.8040597766,
+    "stop_lon": -8.4397401677
+  },
+  {
+    "stop_id": "8360B3368501",
+    "stop_name": "Foleys Cross, stop 336851",
+    "stop_lat": 52.8470654525,
+    "stop_lon": -8.4772135275
+  },
+  {
+    "stop_id": "8360B3368701",
+    "stop_name": "Ogonelloe, stop 336871",
+    "stop_lat": 52.8823611719,
+    "stop_lon": -8.4564143981
+  },
+  {
+    "stop_id": "8360B336911",
+    "stop_name": "Element Six, stop 336911",
+    "stop_lat": 52.7012649357,
+    "stop_lon": -8.9031942347
+  },
+  {
+    "stop_id": "8360B336951",
+    "stop_name": "Ashford House, stop 336951",
+    "stop_lat": 52.6995875606,
+    "stop_lon": -8.9027453326
+  },
+  {
+    "stop_id": "8360B337081",
+    "stop_name": "Airport House, stop 337081",
+    "stop_lat": 52.6970234167,
+    "stop_lon": -8.9018935182
+  },
+  {
+    "stop_id": "8360B337111",
+    "stop_name": "Aerlingus Cargo, stop 337111",
+    "stop_lat": 52.6898466773,
+    "stop_lon": -8.9130025353
+  },
+  {
+    "stop_id": "8360B337131",
+    "stop_name": "Airport House, stop 337131",
+    "stop_lat": 52.6971282192,
+    "stop_lon": -8.9022951357
+  },
+  {
+    "stop_id": "8360B337201",
+    "stop_name": "Universal House, stop 337201",
+    "stop_lat": 52.6984911717,
+    "stop_lon": -8.9027227117
+  },
+  {
+    "stop_id": "8360B337211",
+    "stop_name": "Aon House, stop 337211",
+    "stop_lat": 52.7035109814,
+    "stop_lon": -8.9021456373
+  },
+  {
+    "stop_id": "8360B337221",
+    "stop_name": "Thormac Engineering, stop 337221",
+    "stop_lat": 52.7050352693,
+    "stop_lon": -8.9002682097
+  },
+  {
+    "stop_id": "8360B3372801",
+    "stop_name": "Lissycasey, stop 337281",
+    "stop_lat": 52.7392566342,
+    "stop_lon": -9.1724543389
+  },
+  {
+    "stop_id": "8360B337291",
+    "stop_name": "Shannon RSA, stop 337291",
+    "stop_lat": 52.7044486137,
+    "stop_lon": -8.8970303496
+  },
+  {
+    "stop_id": "8360B3374301",
+    "stop_name": "Knockalough, stop 337431",
+    "stop_lat": 52.7097793488,
+    "stop_lon": -9.2621770244
+  },
+  {
+    "stop_id": "8360B3374501",
+    "stop_name": "Shaughnessys Cross, stop 337451",
+    "stop_lat": 52.6958843898,
+    "stop_lon": -9.3406621434
+  },
+  {
+    "stop_id": "8360B3374601",
+    "stop_name": "Mountshannon, stop 337461",
+    "stop_lat": 52.9319139446,
+    "stop_lon": -8.4288677296
+  },
+  {
+    "stop_id": "8360B3375101",
+    "stop_name": "Scariff, stop 337511",
+    "stop_lat": 52.910936173,
+    "stop_lon": -8.5313327964
+  },
+  {
+    "stop_id": "8360B337521",
+    "stop_name": "Fergus Road Rbdt, stop 337521",
+    "stop_lat": 52.7030600792,
+    "stop_lon": -8.8928440012
+  },
+  {
+    "stop_id": "8360B3375301",
+    "stop_name": "Tuamgraney, stop 337531",
+    "stop_lat": 52.8970679575,
+    "stop_lon": -8.5393523444
+  },
+  {
+    "stop_id": "8360B3375501",
+    "stop_name": "Bodyke, stop 337551",
+    "stop_lat": 52.8844164313,
+    "stop_lon": -8.5969338961
+  },
+  {
+    "stop_id": "8360B337611",
+    "stop_name": "Tullyglass, stop 337611",
+    "stop_lat": 52.7058611392,
+    "stop_lon": -8.8896900815
+  },
+  {
+    "stop_id": "8360B337631",
+    "stop_name": "Tola Park, stop 337631",
+    "stop_lat": 52.709759149,
+    "stop_lon": -8.8828582534
+  },
+  {
+    "stop_id": "8360B337641",
+    "stop_name": "Fearnog, stop 337641",
+    "stop_lat": 52.7078905897,
+    "stop_lon": -8.8815182838
+  },
+  {
+    "stop_id": "8360B337651",
+    "stop_name": "Shannon Town Hall, stop 337651",
+    "stop_lat": 52.7058370284,
+    "stop_lon": -8.8772447754
+  },
+  {
+    "stop_id": "8360B3376601",
+    "stop_name": "Ballinahinch Cross, stop 337661",
+    "stop_lat": 52.8791813254,
+    "stop_lon": -8.6669840005
+  },
+  {
+    "stop_id": "8360B337701",
+    "stop_name": "John & Paul Church, stop 337701",
+    "stop_lat": 52.709457601,
+    "stop_lon": -8.8664698324
+  },
+  {
+    "stop_id": "8360B337731",
+    "stop_name": "Ballycasey Park, stop 337731",
+    "stop_lat": 52.7123737863,
+    "stop_lon": -8.8683775887
+  },
+  {
+    "stop_id": "8360B3377401",
+    "stop_name": "Tulla, stop 337741",
+    "stop_lat": 52.8673483086,
+    "stop_lon": -8.7563177834
+  },
+  {
+    "stop_id": "8360B337751",
+    "stop_name": "Ballycasey Cross, stop 337751",
+    "stop_lat": 52.7153459537,
+    "stop_lon": -8.8626198807
+  },
+  {
+    "stop_id": "8360B337761",
+    "stop_name": "Hurlers Cross, stop 337761",
+    "stop_lat": 52.7095169283,
+    "stop_lon": -8.8407505982
+  },
+  {
+    "stop_id": "8360B3377701",
+    "stop_name": "Keoghs Cross, stop 337771",
+    "stop_lat": 52.8742250799,
+    "stop_lon": -8.6819260615
+  },
+  {
+    "stop_id": "8360B337781",
+    "stop_name": "Craggaknock, stop 337781",
+    "stop_lat": 52.7719973378,
+    "stop_lon": -9.4464040826
+  },
+  {
+    "stop_id": "8360B337821",
+    "stop_name": "Setrights Cross, stop 337821",
+    "stop_lat": 52.693258266,
+    "stop_lon": -8.756560193
+  },
+  {
+    "stop_id": "8360B337841",
+    "stop_name": "Radisson Hotel, stop 337841",
+    "stop_lat": 52.6821770723,
+    "stop_lon": -8.7098705129
+  },
+  {
+    "stop_id": "8360B337851",
+    "stop_name": "Two Mile Inn, stop 337851",
+    "stop_lat": 52.6802005078,
+    "stop_lon": -8.6991461613
+  },
+  {
+    "stop_id": "8360B337861",
+    "stop_name": "Ministers Cross, stop 337861",
+    "stop_lat": 52.7203746071,
+    "stop_lon": -8.8136931674
+  },
+  {
+    "stop_id": "8360B337871",
+    "stop_name": "Cappagh, stop 337871",
+    "stop_lat": 52.7285985915,
+    "stop_lon": -8.7991742426
+  },
+  {
+    "stop_id": "8360B337881",
+    "stop_name": "O'Gormans Cross, stop 337881",
+    "stop_lat": 52.7092426836,
+    "stop_lon": -8.7713541521
+  },
+  {
+    "stop_id": "8360B337891",
+    "stop_name": "Cratloe, stop 337891",
+    "stop_lat": 52.6984075448,
+    "stop_lon": -8.7623157111
+  },
+  {
+    "stop_id": "8360B3379001",
+    "stop_name": "Killane Cross, stop 337901",
+    "stop_lat": 52.8271917915,
+    "stop_lon": -8.7546853945
+  },
+  {
+    "stop_id": "8360B3379201",
+    "stop_name": "O'Callaghans Mills, stop 337921",
+    "stop_lat": 52.8418754879,
+    "stop_lon": -8.6854566334
+  },
+  {
+    "stop_id": "8360B3379301",
+    "stop_name": "Kilkishen, stop 337931",
+    "stop_lat": 52.8070395015,
+    "stop_lon": -8.7477955456
+  },
+  {
+    "stop_id": "8360B3379402",
+    "stop_name": "RYNSX",
+    "stop_lat": 52.8491997951,
+    "stop_lon": -8.7055400929
+  },
+  {
+    "stop_id": "8360B3379501",
+    "stop_name": "O'Neils Gate, stop 337951",
+    "stop_lat": 52.7942635067,
+    "stop_lon": -8.7667483908
+  },
+  {
+    "stop_id": "8360B337971",
+    "stop_name": "Scariff, stop 337971",
+    "stop_lat": 52.9108698695,
+    "stop_lon": -8.5320902083
+  },
+  {
+    "stop_id": "8360B3380601",
+    "stop_name": "Broadford, stop 338061",
+    "stop_lat": 52.8059641959,
+    "stop_lon": -8.6328928201
+  },
+  {
+    "stop_id": "8360B3380701",
+    "stop_name": "Crosses of Annagh, stop 338071",
+    "stop_lat": 52.8219477861,
+    "stop_lon": -9.4180009459
+  },
+  {
+    "stop_id": "8360B3380902",
+    "stop_name": "FRMYL",
+    "stop_lat": 52.7941684238,
+    "stop_lon": -8.626805477
+  },
+  {
+    "stop_id": "8360B3384201",
+    "stop_name": "Knockdonagh Cross, stop 338421",
+    "stop_lat": 52.7374215573,
+    "stop_lon": -8.6036901323
+  },
+  {
+    "stop_id": "8360B3384401",
+    "stop_name": "Setrights Cross, stop 338441",
+    "stop_lat": 52.6933762446,
+    "stop_lon": -8.7577900767
+  },
+  {
+    "stop_id": "8360B3384501",
+    "stop_name": "Kilmore Chapel, stop 338451",
+    "stop_lat": 52.7537808525,
+    "stop_lon": -8.5927616004
+  },
+  {
+    "stop_id": "8360B345781",
+    "stop_name": "Toonagh, stop 345781",
+    "stop_lat": 52.8904672743,
+    "stop_lon": -9.0318467449
+  },
+  {
+    "stop_id": "8360B345791",
+    "stop_name": "Kilnaboy, stop 345791",
+    "stop_lat": 52.9706500095,
+    "stop_lon": -9.0861915736
+  },
+  {
+    "stop_id": "8360B345801",
+    "stop_name": "Lemenagh Castle, stop 345801",
+    "stop_lat": 52.9869532722,
+    "stop_lon": -9.1400395997
+  },
+  {
+    "stop_id": "8360B345811",
+    "stop_name": "Hanrahans Cross, stop 345811",
+    "stop_lat": 52.9163142408,
+    "stop_lon": -9.3463899535
+  },
+  {
+    "stop_id": "8360B345821",
+    "stop_name": "Rineen School, stop 345821",
+    "stop_lat": 52.890738418,
+    "stop_lon": -9.3889027747
+  },
+  {
+    "stop_id": "8360B345831",
+    "stop_name": "Miltown Malbay, stop 345831",
+    "stop_lat": 52.8562180676,
+    "stop_lon": -9.4008084353
+  },
+  {
+    "stop_id": "8360B345841",
+    "stop_name": "Spanish Point, stop 345841",
+    "stop_lat": 52.8374779187,
+    "stop_lon": -9.4294016498
+  },
+  {
+    "stop_id": "8360B345851",
+    "stop_name": "Quilty, stop 345851",
+    "stop_lat": 52.8171614454,
+    "stop_lon": -9.4562264067
+  },
+  {
+    "stop_id": "8360B345861",
+    "stop_name": "Craggaknock, stop 345861",
+    "stop_lat": 52.7719881723,
+    "stop_lon": -9.4464185996
+  },
+  {
+    "stop_id": "8360B345871",
+    "stop_name": "Doonbeg, stop 345871",
+    "stop_lat": 52.7303952025,
+    "stop_lon": -9.5297216472
+  },
+  {
+    "stop_id": "8360B345931",
+    "stop_name": "Ballinalacken Castle, stop 345931",
+    "stop_lat": 53.0464538713,
+    "stop_lon": -9.3416129602
+  },
+  {
+    "stop_id": "8360B345941",
+    "stop_name": "Doolin, stop 345941",
+    "stop_lat": 53.0198299417,
+    "stop_lon": -9.3708810417
+  },
+  {
+    "stop_id": "8360B345951",
+    "stop_name": "Shragh, stop 345951",
+    "stop_lat": 52.703726345,
+    "stop_lon": -9.4937179306
+  },
+  {
+    "stop_id": "8360B345961",
+    "stop_name": "Monmore, stop 345961",
+    "stop_lat": 52.6788788616,
+    "stop_lon": -9.5130575523
+  },
+  {
+    "stop_id": "8360B345971",
+    "stop_name": "Clonlara, stop 345971",
+    "stop_lat": 52.7244523334,
+    "stop_lon": -8.5538742938
+  },
+  {
+    "stop_id": "8360B346011",
+    "stop_name": "Killanena, stop 346011",
+    "stop_lat": 52.9844919285,
+    "stop_lon": -8.7026193989
+  },
+  {
+    "stop_id": "8360B346021",
+    "stop_name": "McNamara's, stop 301221",
+    "stop_lat": 52.9717338687,
+    "stop_lon": -8.6723235799
+  },
+  {
+    "stop_id": "8360B346031",
+    "stop_name": "Kilclaran Church, stop 346031",
+    "stop_lat": 52.9518079712,
+    "stop_lon": -8.649737302
+  },
+  {
+    "stop_id": "8360B346041",
+    "stop_name": "Feakle, stop 346041",
+    "stop_lat": 52.92633601,
+    "stop_lon": -8.648240419
+  },
+  {
+    "stop_id": "8360B346051",
+    "stop_name": "Ballinahinch Cross, stop 346051",
+    "stop_lat": 52.8791823263,
+    "stop_lon": -8.6668057393
+  },
+  {
+    "stop_id": "8360B346061",
+    "stop_name": "Fortane Cross, stop 346061",
+    "stop_lat": 52.8719501488,
+    "stop_lon": -8.7021511466
+  },
+  {
+    "stop_id": "8360B346071",
+    "stop_name": "Norrie Henchy's, stop 346071",
+    "stop_lat": 52.8568935388,
+    "stop_lon": -8.8508868034
+  },
+  {
+    "stop_id": "8360B346081",
+    "stop_name": "Clooney, stop 346081",
+    "stop_lat": 52.8636381356,
+    "stop_lon": -8.8677709597
+  },
+  {
+    "stop_id": "8360B346091",
+    "stop_name": "Spancil Hill Cross, stop 346091",
+    "stop_lat": 52.8696031721,
+    "stop_lon": -8.8995721177
+  },
+  {
+    "stop_id": "8360B346101",
+    "stop_name": "Cluain Ros, stop 346101",
+    "stop_lat": 52.8560015223,
+    "stop_lon": -8.957408735
+  },
+  {
+    "stop_id": "8360B346111",
+    "stop_name": "Cooleenbridge, stop 346111",
+    "stop_lat": 52.9238330305,
+    "stop_lon": -8.5904565064
+  },
+  {
+    "stop_id": "8360B346121",
+    "stop_name": "Pepper's, stop 346121",
+    "stop_lat": 52.930890234,
+    "stop_lon": -8.6370785415
+  },
+  {
+    "stop_id": "8360B346131",
+    "stop_name": "Caher Cross, stop 346131",
+    "stop_lat": 52.9617270983,
+    "stop_lon": -8.6617341841
+  },
+  {
+    "stop_id": "8360B346141",
+    "stop_name": "Stop No. 346141",
+    "stop_lat": 52.9772778643,
+    "stop_lon": -8.6867189379
+  },
+  {
+    "stop_id": "8360B346151",
+    "stop_name": "Canny's, stop 346151",
+    "stop_lat": 52.9892270015,
+    "stop_lon": -8.7028600747
+  },
+  {
+    "stop_id": "8360B346161",
+    "stop_name": "Drumandora, stop 346161",
+    "stop_lat": 52.9969348833,
+    "stop_lon": -8.7332108688
+  },
+  {
+    "stop_id": "8360B346241",
+    "stop_name": "Crosses of Annagh, stop 346241",
+    "stop_lat": 52.8219909388,
+    "stop_lon": -9.418150729
+  },
+  {
+    "stop_id": "8360B346251",
+    "stop_name": "Doonogan, stop 346251",
+    "stop_lat": 52.7987867825,
+    "stop_lon": -9.3734844139
+  },
+  {
+    "stop_id": "8360B346261",
+    "stop_name": "Coore Cross, stop 346261",
+    "stop_lat": 52.8053091142,
+    "stop_lon": -9.3471109448
+  },
+  {
+    "stop_id": "8360B346271",
+    "stop_name": "The Hand, stop 346271",
+    "stop_lat": 52.8210005476,
+    "stop_lon": -9.264818917
+  },
+  {
+    "stop_id": "8360B346281",
+    "stop_name": "Connolly, stop 346281",
+    "stop_lat": 52.8289146964,
+    "stop_lon": -9.177909096
+  },
+  {
+    "stop_id": "8360B346291",
+    "stop_name": "Kilmaley, stop 346291",
+    "stop_lat": 52.8279760349,
+    "stop_lon": -9.1188524137
+  },
+  {
+    "stop_id": "8360B346341",
+    "stop_name": "Hotel Doolin, stop 346341",
+    "stop_lat": 53.0163646493,
+    "stop_lon": -9.3767478424
+  },
+  {
+    "stop_id": "8360B346351",
+    "stop_name": "Rainbow Hostel, stop 346351",
+    "stop_lat": 53.0200040887,
+    "stop_lon": -9.3705884504
+  },
+  {
+    "stop_id": "8360B346361",
+    "stop_name": "Hotel Doolin, stop 346361",
+    "stop_lat": 53.0165547106,
+    "stop_lon": -9.3766346575
+  },
+  {
+    "stop_id": "8360B350471",
+    "stop_name": "Kilfenora, stop 350471",
+    "stop_lat": 52.9901463506,
+    "stop_lon": -9.2159989263
+  },
+  {
+    "stop_id": "8360B3505001",
+    "stop_name": "Kilmihil, stop 350501",
+    "stop_lat": 52.720726801,
+    "stop_lon": -9.3183900019
+  },
+  {
+    "stop_id": "8360B3505201",
+    "stop_name": "Liscannor, stop 350521",
+    "stop_lat": 52.9386813413,
+    "stop_lon": -9.3904971751
+  },
+  {
+    "stop_id": "8360B3505301",
+    "stop_name": "Cliffs of Moher, stop 350531",
+    "stop_lat": 52.9710445954,
+    "stop_lon": -9.4241869882
+  },
+  {
+    "stop_id": "8360B3508401",
+    "stop_name": "Fountain Cross, stop 350841",
+    "stop_lat": 52.8663672036,
+    "stop_lon": -9.0270270351
+  },
+  {
+    "stop_id": "8360B3508501",
+    "stop_name": "O Neills Cross, stop 350851",
+    "stop_lat": 52.8635768947,
+    "stop_lon": -9.1161145905
+  },
+  {
+    "stop_id": "8360B3508601",
+    "stop_name": "Inagh, stop 350861",
+    "stop_lat": 52.8777949325,
+    "stop_lon": -9.1758459652
+  },
+  {
+    "stop_id": "8360B350881",
+    "stop_name": "Toonagh, stop 350881",
+    "stop_lat": 52.8905998722,
+    "stop_lon": -9.0321025253
+  },
+  {
+    "stop_id": "8360B350891",
+    "stop_name": "Corofin, stop 350891",
+    "stop_lat": 52.9451839452,
+    "stop_lon": -9.0646926033
+  },
+  {
+    "stop_id": "8360B3509001",
+    "stop_name": "Kilnaboy, stop 350901",
+    "stop_lat": 52.9705598787,
+    "stop_lon": -9.0862190901
+  },
+  {
+    "stop_id": "8360B350911",
+    "stop_name": "Lemenagh Castle, stop 350911",
+    "stop_lat": 52.9868209138,
+    "stop_lon": -9.1397829195
+  },
+  {
+    "stop_id": "8360B3509301",
+    "stop_name": "Moyasta, stop 350931",
+    "stop_lat": 52.667518486,
+    "stop_lon": -9.5380815196
+  },
+  {
+    "stop_id": "8360B3509401",
+    "stop_name": "Kilrush, stop 350941",
+    "stop_lat": 52.6381793874,
+    "stop_lon": -9.4844949541
+  },
+  {
+    "stop_id": "8360B3509601",
+    "stop_name": "Lahinch, stop 350961",
+    "stop_lat": 52.9337180006,
+    "stop_lon": -9.3445796935
+  },
+  {
+    "stop_id": "8360B3509701",
+    "stop_name": "Sheedys Cross, stop 350971",
+    "stop_lat": 52.794426487,
+    "stop_lon": -9.0607406214
+  },
+  {
+    "stop_id": "8360B3509801",
+    "stop_name": "Latoon Cross, stop 350981",
+    "stop_lat": 52.7856842147,
+    "stop_lon": -8.9192324423
+  },
+  {
+    "stop_id": "8360B3509901",
+    "stop_name": "Corofin Cross, stop 350991",
+    "stop_lat": 52.9229954307,
+    "stop_lon": -9.2507314032
+  },
+  {
+    "stop_id": "8360B3510001",
+    "stop_name": "Lisdoonvarna, stop 351001",
+    "stop_lat": 53.0291739279,
+    "stop_lon": -9.2900590781
+  },
+  {
+    "stop_id": "8360B3512301",
+    "stop_name": "Lisdeen, stop 351231",
+    "stop_lat": 52.6730334595,
+    "stop_lon": -9.5874733803
+  },
+  {
+    "stop_id": "8360B351521",
+    "stop_name": "Sheedys Cross, stop 351521",
+    "stop_lat": 52.7945414524,
+    "stop_lon": -9.0609510095
+  },
+  {
+    "stop_id": "8360B351531",
+    "stop_name": "Lissycasey, stop 351531",
+    "stop_lat": 52.7393621236,
+    "stop_lon": -9.1726941196
+  },
+  {
+    "stop_id": "8360B351541",
+    "stop_name": "Knockalough, stop 351541",
+    "stop_lat": 52.7099409235,
+    "stop_lon": -9.2613529148
+  },
+  {
+    "stop_id": "8360B351551",
+    "stop_name": "Kilmihil, stop 351551",
+    "stop_lat": 52.7206428049,
+    "stop_lon": -9.31866873
+  },
+  {
+    "stop_id": "8360B351561",
+    "stop_name": "Shaughnessys Cross, stop 351561",
+    "stop_lat": 52.6960644334,
+    "stop_lon": -9.3406380702
+  },
+  {
+    "stop_id": "8360B351571",
+    "stop_name": "Moyasta, stop 351571",
+    "stop_lat": 52.667584448,
+    "stop_lon": -9.5378472656
+  },
+  {
+    "stop_id": "8360B351581",
+    "stop_name": "Lisdeen, stop 351581",
+    "stop_lat": 52.6731013752,
+    "stop_lon": -9.5877715948
+  },
+  {
+    "stop_id": "8360B351591",
+    "stop_name": "Corofin, stop 351591",
+    "stop_lat": 52.9449257504,
+    "stop_lon": -9.0644184359
+  },
+  {
+    "stop_id": "8360B351601",
+    "stop_name": "Kilfenora, stop 351601",
+    "stop_lat": 52.9903172262,
+    "stop_lon": -9.2159888311
+  },
+  {
+    "stop_id": "8360B351611",
+    "stop_name": "Ennistymon Square, stop 351611",
+    "stop_lat": 52.940998836,
+    "stop_lon": -9.2935346302
+  },
+  {
+    "stop_id": "8360B351621",
+    "stop_name": "Ennistymon, stop 351621",
+    "stop_lat": 52.9390795536,
+    "stop_lon": -9.2931500769
+  },
+  {
+    "stop_id": "8360B351631",
+    "stop_name": "Fountain Cross, stop 351631",
+    "stop_lat": 52.8660271402,
+    "stop_lon": -9.0268556291
+  },
+  {
+    "stop_id": "8360B351641",
+    "stop_name": "O'Neills Cross, stop 351641",
+    "stop_lat": 52.8636574892,
+    "stop_lon": -9.116146362
+  },
+  {
+    "stop_id": "8360B351651",
+    "stop_name": "Inagh, stop 351651",
+    "stop_lat": 52.8778783039,
+    "stop_lon": -9.1755956598
+  },
+  {
+    "stop_id": "8360B351661",
+    "stop_name": "Corofin Cross, stop 351661",
+    "stop_lat": 52.923096305,
+    "stop_lon": -9.2505409732
+  },
+  {
+    "stop_id": "8360B351671",
+    "stop_name": "Liscannor, stop 351671",
+    "stop_lat": 52.9386184471,
+    "stop_lon": -9.3904951586
+  },
+  {
+    "stop_id": "8360B3553301",
+    "stop_name": "Shannon Airport, stop 355331",
+    "stop_lat": 52.6919241357,
+    "stop_lon": -8.9186672024
+  },
+  {
+    "stop_id": "8360B356001",
+    "stop_name": "Fisher Street, stop 356001",
+    "stop_lat": 53.0129208007,
+    "stop_lon": -9.3838364592
+  },
+  {
+    "stop_id": "8360B3560101",
+    "stop_name": "Ennistymon Ahern's, stop 356011",
+    "stop_lat": 52.9390965529,
+    "stop_lon": -9.2932398497
+  },
+  {
+    "stop_id": "8360B3560201",
+    "stop_name": "Kilkee, stop 356021",
+    "stop_lat": 52.6811012462,
+    "stop_lon": -9.6451229928
+  },
+  {
+    "stop_id": "8360B3560301",
+    "stop_name": "Doolin Hostel, stop 356031",
+    "stop_lat": 53.0127196671,
+    "stop_lon": -9.3841280865
+  },
+  {
+    "stop_id": "8360B3560401",
+    "stop_name": "Doolin Pier, stop 356041",
+    "stop_lat": 53.0163791425,
+    "stop_lon": -9.4024285776
+  },
+  {
+    "stop_id": "8360B3560501",
+    "stop_name": "Ennistytmon Square, stop 356051",
+    "stop_lat": 52.9409909841,
+    "stop_lon": -9.2934302478
+  },
+  {
+    "stop_id": "8360B3576201",
+    "stop_name": "Miltown Malbay, stop 357621",
+    "stop_lat": 52.8549191504,
+    "stop_lon": -9.4011972295
+  },
+  {
+    "stop_id": "8360B3579001",
+    "stop_name": "Crusheen, stop 357901",
+    "stop_lat": 52.9383288412,
+    "stop_lon": -8.8990181851
+  },
+  {
+    "stop_id": "8360B357931",
+    "stop_name": "Crusheen, stop 357931",
+    "stop_lat": 52.9383288412,
+    "stop_lon": -8.8990181851
+  },
+  {
+    "stop_id": "8360B5302301",
+    "stop_name": "Ballinalacken Castle, stop 530231",
+    "stop_lat": 53.0461273136,
+    "stop_lon": -9.3410808085
+  },
+  {
+    "stop_id": "8360B5650201",
+    "stop_name": "Whitegate, stop 565021",
+    "stop_lat": 52.950733907,
+    "stop_lon": -8.3729386871
+  },
+  {
+    "stop_id": "8360B6001701",
+    "stop_name": "Kilmaley, stop 600171",
+    "stop_lat": 52.8280925732,
+    "stop_lon": -9.1188850868
+  },
+  {
+    "stop_id": "8360B600301",
+    "stop_name": "Friar's Walk, stop 600301",
+    "stop_lat": 52.8431427447,
+    "stop_lon": -8.9779822077
+  },
+  {
+    "stop_id": "8360B6004001",
+    "stop_name": "Doonogan, stop 600401",
+    "stop_lat": 52.7988125368,
+    "stop_lon": -9.3735890344
+  },
+  {
+    "stop_id": "8360B6004101",
+    "stop_name": "Coore Cross, stop 600411",
+    "stop_lat": 52.8054625369,
+    "stop_lon": -9.347056359
+  },
+  {
+    "stop_id": "8360B6004201",
+    "stop_name": "The Hand, stop 600421",
+    "stop_lat": 52.820966028,
+    "stop_lon": -9.2646843796
+  },
+  {
+    "stop_id": "8360B6007001",
+    "stop_name": "Connolly, stop 600701",
+    "stop_lat": 52.8290229678,
+    "stop_lon": -9.1778675053
+  },
+  {
+    "stop_id": "8360B603071",
+    "stop_name": "Lifford Road, stop 603071",
+    "stop_lat": 52.8508877763,
+    "stop_lon": -8.9783047468
+  },
+  {
+    "stop_id": "8360B603101",
+    "stop_name": "Macs Cross, stop 603101",
+    "stop_lat": 52.8365317851,
+    "stop_lon": -8.9829097017
+  },
+  {
+    "stop_id": "8360B603111",
+    "stop_name": "Clon Road, stop 603111",
+    "stop_lat": 52.8362407617,
+    "stop_lon": -8.9822352393
+  },
+  {
+    "stop_id": "8360B603121",
+    "stop_name": "West County Hotel, stop 603121",
+    "stop_lat": 52.8320401309,
+    "stop_lon": -8.980448648
+  },
+  {
+    "stop_id": "8360B603131",
+    "stop_name": "Limerick Road, stop 603131",
+    "stop_lat": 52.8269064728,
+    "stop_lon": -8.9784485346
+  },
+  {
+    "stop_id": "8360B603141",
+    "stop_name": "Clareabbey, stop 603141",
+    "stop_lat": 52.8223372511,
+    "stop_lon": -8.9755713165
+  },
+  {
+    "stop_id": "8360B603151",
+    "stop_name": "St Joseph's Terrace, stop 603151",
+    "stop_lat": 52.8202194252,
+    "stop_lon": -8.9729719953
+  },
+  {
+    "stop_id": "8360B603161",
+    "stop_name": "Madden's Terrace, stop 603161",
+    "stop_lat": 52.8163465971,
+    "stop_lon": -8.9684497625
+  },
+  {
+    "stop_id": "8360B603171",
+    "stop_name": "Clarecastle, stop 603171",
+    "stop_lat": 52.8145176839,
+    "stop_lon": -8.9645669429
+  },
+  {
+    "stop_id": "8360B603181",
+    "stop_name": "Latoon Cross, stop 603181",
+    "stop_lat": 52.7857844454,
+    "stop_lon": -8.9190566573
+  },
+  {
+    "stop_id": "8360B603191",
+    "stop_name": "Newmarket-on-Fergus, stop 603191",
+    "stop_lat": 52.7629797893,
+    "stop_lon": -8.8981733961
+  },
+  {
+    "stop_id": "8360B603201",
+    "stop_name": "Boheraroan, stop 603201",
+    "stop_lat": 52.7591458774,
+    "stop_lon": -8.8952647174
+  },
+  {
+    "stop_id": "8360B603211",
+    "stop_name": "Aidan Park, stop 603211",
+    "stop_lat": 52.7128112297,
+    "stop_lon": -8.8724562713
+  },
+  {
+    "stop_id": "8360B603221",
+    "stop_name": "Skycourt Centre, stop 603221",
+    "stop_lat": 52.7113063551,
+    "stop_lon": -8.8814835347
+  },
+  {
+    "stop_id": "8360B603231",
+    "stop_name": "Tola Park, stop 603231",
+    "stop_lat": 52.7092901041,
+    "stop_lon": -8.88789518
+  },
+  {
+    "stop_id": "8360B603241",
+    "stop_name": "Tola Park, stop 603241",
+    "stop_lat": 52.7093606689,
+    "stop_lon": -8.8880741986
+  },
+  {
+    "stop_id": "8360B603251",
+    "stop_name": "Skycourt Centre, stop 603251",
+    "stop_lat": 52.7116393348,
+    "stop_lon": -8.8802174805
+  },
+  {
+    "stop_id": "8360B603261",
+    "stop_name": "Boheraroan, stop 603261",
+    "stop_lat": 52.7591367789,
+    "stop_lon": -8.8952793465
+  },
+  {
+    "stop_id": "8360B603271",
+    "stop_name": "Newmarket-on-Fergus, stop 603271",
+    "stop_lat": 52.761584701,
+    "stop_lon": -8.897240883
+  },
+  {
+    "stop_id": "8360B603281",
+    "stop_name": "Clarecastle, stop 603281",
+    "stop_lat": 52.8145640625,
+    "stop_lon": -8.964389954
+  },
+  {
+    "stop_id": "8360B603291",
+    "stop_name": "St Michael's Tce, stop 603291",
+    "stop_lat": 52.8163637227,
+    "stop_lon": -8.9685539899
+  },
+  {
+    "stop_id": "8360B603301",
+    "stop_name": "St Josephs Terrace, stop 603301",
+    "stop_lat": 52.8200747911,
+    "stop_lon": -8.9730726204
+  },
+  {
+    "stop_id": "8360B603311",
+    "stop_name": "Carmody Street, stop 603311",
+    "stop_lat": 52.8412737711,
+    "stop_lon": -8.9844417801
+  },
+  {
+    "stop_id": "8360B603321",
+    "stop_name": "Parnell St junction, stop 603321",
+    "stop_lat": 52.8434281133,
+    "stop_lon": -8.9880234976
+  },
+  {
+    "stop_id": "8360B603331",
+    "stop_name": "West County Hotel, stop 603331",
+    "stop_lat": 52.8317524439,
+    "stop_lon": -8.9804570106
+  },
+  {
+    "stop_id": "8360B603341",
+    "stop_name": "Castle Lawn, stop 603341",
+    "stop_lat": 52.8500234559,
+    "stop_lon": -8.9730147235
+  },
+  {
+    "stop_id": "8360B603351",
+    "stop_name": "Stop No. 603351",
+    "stop_lat": 52.8364416756,
+    "stop_lon": -8.9829373515
+  },
+  {
+    "stop_id": "8360B603361",
+    "stop_name": "Stop No. 603361",
+    "stop_lat": 52.8463856515,
+    "stop_lon": -8.9858044336
+  },
+  {
+    "stop_id": "8360B603371",
+    "stop_name": "New Road, stop 603371",
+    "stop_lat": 52.8485337144,
+    "stop_lon": -8.9782072843
+  },
+  {
+    "stop_id": "8360B6066301",
+    "stop_name": "Athlunkard Avenue, stop 606631",
+    "stop_lat": 52.6850523859,
+    "stop_lon": -8.6081739235
+  },
+  {
+    "stop_id": "8360B6066401",
+    "stop_name": "Riverside Drive, stop 606641",
+    "stop_lat": 52.6849859931,
+    "stop_lon": -8.6105986181
+  },
+  {
+    "stop_id": "8360B6066501",
+    "stop_name": "Riverside Park, stop 606651",
+    "stop_lat": 52.6840397228,
+    "stop_lon": -8.6110882812
+  },
+  {
+    "stop_id": "8360B6066601",
+    "stop_name": "Shannon Grove, stop 606661",
+    "stop_lat": 52.6843035451,
+    "stop_lon": -8.608725545
+  },
+  {
+    "stop_id": "8360B6066701",
+    "stop_name": "Riverwalk, stop 606671",
+    "stop_lat": 52.6841502653,
+    "stop_lon": -8.6070669266
+  },
+  {
+    "stop_id": "8360B6066801",
+    "stop_name": "Shannon Banks Estate, stop 606681",
+    "stop_lat": 52.6830997962,
+    "stop_lon": -8.6068453048
+  },
+  {
+    "stop_id": "8360B6066901",
+    "stop_name": "Annavilla Grove, stop 606691",
+    "stop_lat": 52.6861364106,
+    "stop_lon": -8.6035890655
+  },
+  {
+    "stop_id": "8360B6067001",
+    "stop_name": "Westbury, stop 606701",
+    "stop_lat": 52.6850693946,
+    "stop_lon": -8.5977617389
+  },
+  {
+    "stop_id": "8360B6067101",
+    "stop_name": "Clonard, stop 606711",
+    "stop_lat": 52.682941085,
+    "stop_lon": -8.5973925179
+  },
+  {
+    "stop_id": "8360B6067201",
+    "stop_name": "St Nicholas Church, stop 606721",
+    "stop_lat": 52.6825437991,
+    "stop_lon": -8.5995315766
+  },
+  {
+    "stop_id": "8360B6067301",
+    "stop_name": "The Moorings, stop 606731",
+    "stop_lat": 52.6836501277,
+    "stop_lon": -8.6029188216
+  },
+  {
+    "stop_id": "8360B6067401",
+    "stop_name": "Athlunkard Avenue, stop 606741",
+    "stop_lat": 52.6830997962,
+    "stop_lon": -8.6068453048
+  },
+  {
+    "stop_id": "8360B609511",
+    "stop_name": "Bunratty, stop 609511",
+    "stop_lat": 52.6988795477,
+    "stop_lon": -8.8156458104
+  },
+  {
+    "stop_id": "8360B609521",
+    "stop_name": "Shannon Airport, stop 609521",
+    "stop_lat": 52.6919241357,
+    "stop_lon": -8.9186672024
+  },
+  {
+    "stop_id": "8360B6095301",
+    "stop_name": "Element Six, stop 609531",
+    "stop_lat": 52.7005268918,
+    "stop_lon": -8.9033269572
+  },
+  {
+    "stop_id": "8360B609541",
+    "stop_name": "Stop No. 609541",
+    "stop_lat": 52.7070329897,
+    "stop_lon": -8.8686267088
+  },
+  {
+    "stop_id": "8360B6095501",
+    "stop_name": "Bunratty, stop 609551",
+    "stop_lat": 52.6970970876,
+    "stop_lon": -8.8134377763
+  },
+  {
+    "stop_id": "8360B6095601",
+    "stop_name": "Sixmilebridge, stop 609561",
+    "stop_lat": 52.741495014,
+    "stop_lon": -8.7750186939
+  },
+  {
+    "stop_id": "8360B609581",
+    "stop_name": "Shannon Airport, stop 609581",
+    "stop_lat": 52.6921719817,
+    "stop_lon": -8.9191605758
+  },
+  {
+    "stop_id": "8360B6310501",
+    "stop_name": "Glencragga Estate, stop 631051",
+    "stop_lat": 52.7654456215,
+    "stop_lon": -8.9013210689
+  },
+  {
+    "stop_id": "8360B6311401",
+    "stop_name": "Clareabbey, stop 631141",
+    "stop_lat": 52.8223200097,
+    "stop_lon": -8.9754819066
+  },
+  {
+    "stop_id": "8360B631451",
+    "stop_name": "Shragh, stop 631451",
+    "stop_lat": 52.7037042357,
+    "stop_lon": -9.4933324331
+  },
+  {
+    "stop_id": "8360B631461",
+    "stop_name": "Monmore, stop 631461",
+    "stop_lat": 52.6789252954,
+    "stop_lon": -9.5129408416
+  },
+  {
+    "stop_id": "8360B6350001",
+    "stop_name": "St Joseph's Hospital, stop 635001",
+    "stop_lat": 52.8510520991,
+    "stop_lon": -8.9779966525
+  },
+  {
+    "stop_id": "8360B6353301",
+    "stop_name": "Cronan Gardens, stop 635331",
+    "stop_lat": 52.7070623346,
+    "stop_lon": -8.8683017346
+  },
+  {
+    "stop_id": "8360B6353401",
+    "stop_name": "Ennis Station, stop 635341",
+    "stop_lat": 52.8391629732,
+    "stop_lon": -8.9755624379
+  },
+  {
+    "stop_id": "8380B1553501",
+    "stop_name": "Mitchelstown, stop 155351",
+    "stop_lat": 52.266526041,
+    "stop_lon": -8.2697596801
+  },
+  {
+    "stop_id": "8380B1553801",
+    "stop_name": "Mitchelstown, stop 155381",
+    "stop_lat": 52.2663096144,
+    "stop_lon": -8.2700660262
+  },
+  {
+    "stop_id": "8380B3353201",
+    "stop_name": "Charleville, stop 335321",
+    "stop_lat": 52.3543968954,
+    "stop_lon": -8.6826607287
+  },
+  {
+    "stop_id": "8380B357781",
+    "stop_name": "Ballyhea, stop 357781",
+    "stop_lat": 52.3083822356,
+    "stop_lon": -8.6688425752
+  },
+  {
+    "stop_id": "8380B3577901",
+    "stop_name": "Ballyhea, stop 357791",
+    "stop_lat": 52.3086057703,
+    "stop_lon": -8.6690512489
+  },
+  {
+    "stop_id": "8380B609661",
+    "stop_name": "Charleville, stop 609661",
+    "stop_lat": 52.3542180721,
+    "stop_lon": -8.6824964964
+  },
+  {
+    "stop_id": "8390B3314101",
+    "stop_name": "Lawlors Cross, stop 331411",
+    "stop_lat": 52.3602986559,
+    "stop_lon": -9.8237968986
+  },
+  {
+    "stop_id": "8390B331691",
+    "stop_name": "Liscahane Cross, stop 331691",
+    "stop_lat": 52.3024097319,
+    "stop_lon": -9.7607366264
+  },
+  {
+    "stop_id": "8390B331701",
+    "stop_name": "Ardfert, stop 331701",
+    "stop_lat": 52.3279601069,
+    "stop_lon": -9.7809868492
+  },
+  {
+    "stop_id": "8390B331711",
+    "stop_name": "Banna Cross, stop 331711",
+    "stop_lat": 52.3397703899,
+    "stop_lon": -9.8059858699
+  },
+  {
+    "stop_id": "8390B331721",
+    "stop_name": "Lawlors Cross, stop 331721",
+    "stop_lat": 52.3604913943,
+    "stop_lon": -9.8235405349
+  },
+  {
+    "stop_id": "8390B331731",
+    "stop_name": "Ballyheigue, stop 331731",
+    "stop_lat": 52.3893289497,
+    "stop_lon": -9.827094633
+  },
+  {
+    "stop_id": "8390B3323701",
+    "stop_name": "Lisselton, stop 332371",
+    "stop_lat": 52.4875568051,
+    "stop_lon": -9.5752049208
+  },
+  {
+    "stop_id": "8390B3328001",
+    "stop_name": "Duagh, stop 332801",
+    "stop_lat": 52.4153882464,
+    "stop_lon": -9.3913679851
+  },
+  {
+    "stop_id": "8390B335171",
+    "stop_name": "Spa, stop 335171",
+    "stop_lat": 52.2758734009,
+    "stop_lon": -9.7804511596
+  },
+  {
+    "stop_id": "8390B335181",
+    "stop_name": "Churchill, stop 335181",
+    "stop_lat": 52.2907704822,
+    "stop_lon": -9.8227864267
+  },
+  {
+    "stop_id": "8390B335191",
+    "stop_name": "Kilfenora, stop 335191",
+    "stop_lat": 52.2775903871,
+    "stop_lon": -9.8234472698
+  },
+  {
+    "stop_id": "8390B335521",
+    "stop_name": "Tarbert, stop 335521",
+    "stop_lat": 52.5724676369,
+    "stop_lon": -9.374589051
+  },
+  {
+    "stop_id": "8390B335531",
+    "stop_name": "Listowel, stop 335531",
+    "stop_lat": 52.4446409075,
+    "stop_lon": -9.4857466286
+  },
+  {
+    "stop_id": "8390B335981",
+    "stop_name": "Kilflynn Cross, stop 335981",
+    "stop_lat": 52.3409960753,
+    "stop_lon": -9.6197879074
+  },
+  {
+    "stop_id": "8390B335991",
+    "stop_name": "Mountcoal Cross, stop 335991",
+    "stop_lat": 52.3974348865,
+    "stop_lon": -9.5262911859
+  },
+  {
+    "stop_id": "8390B336001",
+    "stop_name": "Duagh, stop 336001",
+    "stop_lat": 52.4154347314,
+    "stop_lon": -9.3912371403
+  },
+  {
+    "stop_id": "8390B3456901",
+    "stop_name": "Ballybunion, stop 345691",
+    "stop_lat": 52.5112804705,
+    "stop_lon": -9.6701398937
+  },
+  {
+    "stop_id": "8390B345711",
+    "stop_name": "Lisselton, stop 345711",
+    "stop_lat": 52.4877448987,
+    "stop_lon": -9.5752558179
+  },
+  {
+    "stop_id": "8390B345721",
+    "stop_name": "Ballybunion, stop 345721",
+    "stop_lat": 52.5111316851,
+    "stop_lon": -9.6698543189
+  },
+  {
+    "stop_id": "8390B345741",
+    "stop_name": "Abbeydorney, stop 345741",
+    "stop_lat": 52.3455187809,
+    "stop_lon": -9.6871497159
+  },
+  {
+    "stop_id": "8390B345751",
+    "stop_name": "Lixnaw, stop 345751",
+    "stop_lat": 52.4016032173,
+    "stop_lon": -9.6164223053
+  },
+  {
+    "stop_id": "8390B345761",
+    "stop_name": "Finuge, stop 345761",
+    "stop_lat": 52.4246819827,
+    "stop_lon": -9.5380104081
+  },
+  {
+    "stop_id": "8390B3504001",
+    "stop_name": "Kilflynn Cross, stop 350401",
+    "stop_lat": 52.3405837095,
+    "stop_lon": -9.620359893
+  },
+  {
+    "stop_id": "8390B3576701",
+    "stop_name": "Tarbert, stop 357671",
+    "stop_lat": 52.5724593363,
+    "stop_lon": -9.374529778
+  },
+  {
+    "stop_id": "8390B6000901",
+    "stop_name": "IT Tralee, stop 600091",
+    "stop_lat": 52.2855666305,
+    "stop_lon": -9.6739797824
+  },
+  {
+    "stop_id": "8390B6010101",
+    "stop_name": "Spa, stop 601011",
+    "stop_lat": 52.2753895053,
+    "stop_lon": -9.7809446954
+  },
+  {
+    "stop_id": "8390B6010201",
+    "stop_name": "Churchill, stop 601021",
+    "stop_lat": 52.2904059838,
+    "stop_lon": -9.8225222372
+  },
+  {
+    "stop_id": "8390B6343201",
+    "stop_name": "IT Tralee S Campus, stop 634321",
+    "stop_lat": 52.2714663111,
+    "stop_lon": -9.6869445046
+  },
+  {
+    "stop_id": "8390B6350601",
+    "stop_name": "Casement Station, stop 635061",
+    "stop_lat": 52.2707726351,
+    "stop_lon": -9.6983332335
+  },
+  {
+    "stop_id": "8390B6350701",
+    "stop_name": "Kerry Hospital, stop 635071",
+    "stop_lat": 52.2673609707,
+    "stop_lon": -9.6842244805
+  },
+  {
+    "stop_id": "8390B635081",
+    "stop_name": "Kerry Hospital, stop 635081",
+    "stop_lat": 52.2676252872,
+    "stop_lon": -9.68460081
+  },
+  {
+    "stop_id": "8390B6356501",
+    "stop_name": "Listowel, stop 635651",
+    "stop_lat": 52.4447153761,
+    "stop_lon": -9.4855431833
+  },
+  {
+    "stop_id": "8390B6357101",
+    "stop_name": "Kilfenora, stop 635711",
+    "stop_lat": 52.2775090786,
+    "stop_lon": -9.8234732437
+  },
+  {
+    "stop_id": "8390B635851",
+    "stop_name": "Brandon Hotel, stop 635851",
+    "stop_lat": 52.266993613,
+    "stop_lon": -9.7097787329
+  },
+  {
+    "stop_id": "8390B635861",
+    "stop_name": "Brandon Hotel, stop 635861",
+    "stop_lat": 52.2670385358,
+    "stop_lon": -9.7097804615
+  },
+  {
+    "stop_id": "8390B6363501",
+    "stop_name": "Abbeydorney, stop 636351",
+    "stop_lat": 52.3454987165,
+    "stop_lon": -9.6872957338
+  },
+  {
+    "stop_id": "8390B6363901",
+    "stop_name": "Lixnaw, stop 636391",
+    "stop_lat": 52.4015632601,
+    "stop_lon": -9.616714778
+  },
+  {
+    "stop_id": "8390B6364101",
+    "stop_name": "Finuge, stop 636411",
+    "stop_lat": 52.4248112153,
+    "stop_lon": -9.53775023
+  },
+  {
+    "stop_id": "8390B6364901",
+    "stop_name": "Mountcoal Cross, stop 636491",
+    "stop_lat": 52.3974348865,
+    "stop_lon": -9.5262911859
+  },
+  {
+    "stop_id": "8390B6366201",
+    "stop_name": "Liscahane Cross, stop 636621",
+    "stop_lat": 52.3023260325,
+    "stop_lon": -9.7609239381
+  },
+  {
+    "stop_id": "8390B6366301",
+    "stop_name": "Ardfert, stop 636631",
+    "stop_lat": 52.327200575,
+    "stop_lon": -9.7812791299
+  },
+  {
+    "stop_id": "8390B6366401",
+    "stop_name": "Banna Cross, stop 636641",
+    "stop_lat": 52.3401347076,
+    "stop_lon": -9.8068519623
+  },
+  {
+    "stop_id": "8390B6366601",
+    "stop_name": "Ballyheigue, stop 636661",
+    "stop_lat": 52.3892112521,
+    "stop_lon": -9.8271485437
+  },
+  {
+    "stop_id": "8390B636751",
+    "stop_name": "St John's NS, stop 636751",
+    "stop_lat": 52.2723258456,
+    "stop_lon": -9.7109217997
+  },
+  {
+    "stop_id": "8390B6371101",
+    "stop_name": "Fenit, stop 637111",
+    "stop_lat": 52.2770740421,
+    "stop_lon": -9.8634219323
+  },
+  {
+    "stop_id": "840000268",
+    "stop_name": "Beverly Heights, stop 607961",
+    "stop_lat": 52.6314853854,
+    "stop_lon": -8.648453647
+  },
+  {
+    "stop_id": "840000269",
+    "stop_name": "Mulcaire Road, stop 607971",
+    "stop_lat": 52.6328601496,
+    "stop_lon": -8.6452387308
+  },
+  {
+    "stop_id": "8400B0608061",
+    "stop_name": "Wolfe Tone Street, stop 608061",
+    "stop_lat": 52.6556634407,
+    "stop_lon": -8.6284438551
+  },
+  {
+    "stop_id": "8400B332041",
+    "stop_name": "Collins Avenue, stop 332041",
+    "stop_lat": 52.6475053873,
+    "stop_lon": -8.6141255207
+  },
+  {
+    "stop_id": "8400B3330601",
+    "stop_name": "Roxboro Garda Stn, stop 333061",
+    "stop_lat": 52.6508509666,
+    "stop_lon": -8.6154729311
+  },
+  {
+    "stop_id": "8400B3361901",
+    "stop_name": "Coonagh Cross, stop 336191",
+    "stop_lat": 52.6738166149,
+    "stop_lon": -8.6731528488
+  },
+  {
+    "stop_id": "8400B603011",
+    "stop_name": "Parnell Street, stop no. 603011",
+    "stop_lat": 52.6588432808,
+    "stop_lon": -8.6254148993
+  },
+  {
+    "stop_id": "8400B6055501",
+    "stop_name": "Arthurs Quay, stop 605551",
+    "stop_lat": 52.6653007155,
+    "stop_lon": -8.6263645362
+  },
+  {
+    "stop_id": "8400B6055601",
+    "stop_name": "St Augustines Church, stop 605561",
+    "stop_lat": 52.6628854387,
+    "stop_lon": -8.6275865524
+  },
+  {
+    "stop_id": "8400B6055701",
+    "stop_name": "Arthurs Quay, stop 605571",
+    "stop_lat": 52.6651113546,
+    "stop_lon": -8.626480098
+  },
+  {
+    "stop_id": "8400B6055801",
+    "stop_name": "Nicholas Street, stop 605581",
+    "stop_lat": 52.6682074827,
+    "stop_lon": -8.6222663858
+  },
+  {
+    "stop_id": "8400B6055901",
+    "stop_name": "Athlunkard Street, stop 605591",
+    "stop_lat": 52.6691482108,
+    "stop_lon": -8.6194114584
+  },
+  {
+    "stop_id": "8400B6066001",
+    "stop_name": "Corbally Road, stop 606601",
+    "stop_lat": 52.6710416152,
+    "stop_lon": -8.6165550336
+  },
+  {
+    "stop_id": "8400B6066101",
+    "stop_name": "Old Park Road, stop 606611",
+    "stop_lat": 52.6740204516,
+    "stop_lon": -8.6158280634
+  },
+  {
+    "stop_id": "8400B6066201",
+    "stop_name": "Mill Road Junction, stop 606621",
+    "stop_lat": 52.6769296073,
+    "stop_lon": -8.614671176
+  },
+  {
+    "stop_id": "8400B606751",
+    "stop_name": "St Munchins School, stop 606751",
+    "stop_lat": 52.68094843,
+    "stop_lon": -8.6109711909
+  },
+  {
+    "stop_id": "8400B606761",
+    "stop_name": "Shannon Drive, stop 606761",
+    "stop_lat": 52.680486258,
+    "stop_lon": -8.6117041832
+  },
+  {
+    "stop_id": "8400B6067701",
+    "stop_name": "Mill Road Junction, stop 606771",
+    "stop_lat": 52.6769392848,
+    "stop_lon": -8.6145382232
+  },
+  {
+    "stop_id": "8400B6067801",
+    "stop_name": "Old Park Road, stop 606781",
+    "stop_lat": 52.674111094,
+    "stop_lon": -8.6156814712
+  },
+  {
+    "stop_id": "8400B6067901",
+    "stop_name": "Corbally Centre, stop 606791",
+    "stop_lat": 52.6711772725,
+    "stop_lon": -8.6163943006
+  },
+  {
+    "stop_id": "8400B6068001",
+    "stop_name": "Athlunkard Street, stop 606801",
+    "stop_lat": 52.6691315491,
+    "stop_lon": -8.6191598778
+  },
+  {
+    "stop_id": "8400B6068101",
+    "stop_name": "Bridge Street, stop 606811",
+    "stop_lat": 52.6677900226,
+    "stop_lon": -8.6230292522
+  },
+  {
+    "stop_id": "8400B606821",
+    "stop_name": "Henry Street, stop 606821",
+    "stop_lat": 52.6632442814,
+    "stop_lon": -8.6294100041
+  },
+  {
+    "stop_id": "8400B6068301",
+    "stop_name": "Ennis Road, stop 606831",
+    "stop_lat": 52.6661176825,
+    "stop_lon": -8.6316245337
+  },
+  {
+    "stop_id": "8400B6068401",
+    "stop_name": "Shelbourne Road, stop 606841",
+    "stop_lat": 52.6674648861,
+    "stop_lon": -8.6401893706
+  },
+  {
+    "stop_id": "8400B6068501",
+    "stop_name": "Shelbourne Road, stop 606851",
+    "stop_lat": 52.670493159,
+    "stop_lon": -8.6403223436
+  },
+  {
+    "stop_id": "8400B606861",
+    "stop_name": "Thomond Park, stop 606861",
+    "stop_lat": 52.6732964532,
+    "stop_lon": -8.6421672718
+  },
+  {
+    "stop_id": "8400B6068701",
+    "stop_name": "Mayorstone Upper, stop 606871",
+    "stop_lat": 52.6734805006,
+    "stop_lon": -8.6463397598
+  },
+  {
+    "stop_id": "8400B6068801",
+    "stop_name": "Old Cratloe Road, stop 606881",
+    "stop_lat": 52.6758229954,
+    "stop_lon": -8.65351659
+  },
+  {
+    "stop_id": "8400B6068901",
+    "stop_name": "Ashwood Avenue, stop 606891",
+    "stop_lat": 52.6776779614,
+    "stop_lon": -8.6577736166
+  },
+  {
+    "stop_id": "8400B6069001",
+    "stop_name": "Whitethorn Drive Upr, stop 606901",
+    "stop_lat": 52.6755550786,
+    "stop_lon": -8.6629172501
+  },
+  {
+    "stop_id": "8400B6069101",
+    "stop_name": "Blackthorn Drive, stop 606911",
+    "stop_lat": 52.6746068867,
+    "stop_lon": -8.6604926355
+  },
+  {
+    "stop_id": "8400B6069201",
+    "stop_name": "Derravaragh Road, stop 606921",
+    "stop_lat": 52.6719467676,
+    "stop_lon": -8.6636462917
+  },
+  {
+    "stop_id": "8400B6069301",
+    "stop_name": "Brookville Avenue, stop 606931",
+    "stop_lat": 52.6726455598,
+    "stop_lon": -8.6559828335
+  },
+  {
+    "stop_id": "8400B6069401",
+    "stop_name": "Cratloe Road, stop 606941",
+    "stop_lat": 52.6735945135,
+    "stop_lon": -8.6468589709
+  },
+  {
+    "stop_id": "8400B606951",
+    "stop_name": "Cratloe Road, stop 606951",
+    "stop_lat": 52.6734275773,
+    "stop_lon": -8.642849372
+  },
+  {
+    "stop_id": "8400B606981",
+    "stop_name": "Treaty Stone, stop 606981",
+    "stop_lat": 52.6693456716,
+    "stop_lon": -8.6280043796
+  },
+  {
+    "stop_id": "8400B6069901",
+    "stop_name": "Sarsfield Bridge, stop 606991",
+    "stop_lat": 52.6661227207,
+    "stop_lon": -8.6306784307
+  },
+  {
+    "stop_id": "8400B6070001",
+    "stop_name": "Elm Park, stop 607001",
+    "stop_lat": 52.666904552,
+    "stop_lon": -8.6407577682
+  },
+  {
+    "stop_id": "8400B6070101",
+    "stop_name": "JFK School, stop 607011",
+    "stop_lat": 52.6668286602,
+    "stop_lon": -8.64480754
+  },
+  {
+    "stop_id": "8400B6070701",
+    "stop_name": "Ballinacurra Close, stop 607071",
+    "stop_lat": 52.6440016675,
+    "stop_lon": -8.6459346444
+  },
+  {
+    "stop_id": "8400B607101",
+    "stop_name": "Moyola Terrace, stop 607101",
+    "stop_lat": 52.6669725749,
+    "stop_lon": -8.6398125688
+  },
+  {
+    "stop_id": "8400B6071101",
+    "stop_name": "William Street, stop 607111",
+    "stop_lat": 52.6632493843,
+    "stop_lon": -8.6250490862
+  },
+  {
+    "stop_id": "8400B6071201",
+    "stop_name": "Lower Roxboro Road, stop 607121",
+    "stop_lat": 52.6593851488,
+    "stop_lon": -8.6197908003
+  },
+  {
+    "stop_id": "8400B6071301",
+    "stop_name": "St Anne's Hospital, stop 607131",
+    "stop_lat": 52.6573982726,
+    "stop_lon": -8.6181663463
+  },
+  {
+    "stop_id": "8400B6071401",
+    "stop_name": "Roxboro Road Church, stop 607141",
+    "stop_lat": 52.6532818067,
+    "stop_lon": -8.6164234046
+  },
+  {
+    "stop_id": "8400B6071501",
+    "stop_name": "Marian Avenue, stop 607151",
+    "stop_lat": 52.6527915276,
+    "stop_lon": -8.6190915962
+  },
+  {
+    "stop_id": "8400B6071601",
+    "stop_name": "McDonagh Avenue, stop 607161",
+    "stop_lat": 52.6512629055,
+    "stop_lon": -8.6209321557
+  },
+  {
+    "stop_id": "8400B6071701",
+    "stop_name": "O Donoghue Avenue, stop 607171",
+    "stop_lat": 52.6494334881,
+    "stop_lon": -8.6201377664
+  },
+  {
+    "stop_id": "8400B6071901",
+    "stop_name": "Star Court, stop 607191",
+    "stop_lat": 52.6444854911,
+    "stop_lon": -8.6192846115
+  },
+  {
+    "stop_id": "8400B6072001",
+    "stop_name": "Lawn Way, stop 607201",
+    "stop_lat": 52.6440388461,
+    "stop_lon": -8.6170322692
+  },
+  {
+    "stop_id": "8400B607211",
+    "stop_name": "Donoughmore Crescent, stop 607211",
+    "stop_lat": 52.6450980652,
+    "stop_lon": -8.6155694877
+  },
+  {
+    "stop_id": "8400B607231",
+    "stop_name": "De Vere Court, stop 607231",
+    "stop_lat": 52.6461250158,
+    "stop_lon": -8.615125813
+  },
+  {
+    "stop_id": "8400B6072601",
+    "stop_name": "Colbert Avenue, stop 607261",
+    "stop_lat": 52.6501158414,
+    "stop_lon": -8.6219947434
+  },
+  {
+    "stop_id": "8400B6072701",
+    "stop_name": "Colbert Avenue, stop 607271",
+    "stop_lat": 52.6513527801,
+    "stop_lon": -8.6209334289
+  },
+  {
+    "stop_id": "8400B6072801",
+    "stop_name": "Marian Avenue, stop 607281",
+    "stop_lat": 52.6528546714,
+    "stop_lon": -8.6190481496
+  },
+  {
+    "stop_id": "8400B6072901",
+    "stop_name": "Glenmore Avenue, stop 607291",
+    "stop_lat": 52.6535135582,
+    "stop_lon": -8.6167961574
+  },
+  {
+    "stop_id": "8400B6073001",
+    "stop_name": "Roxborough Avenue, stop 607301",
+    "stop_lat": 52.6573613975,
+    "stop_lon": -8.6183431984
+  },
+  {
+    "stop_id": "8400B6073201",
+    "stop_name": "Roches Street, stop 607321",
+    "stop_lat": 52.6620311635,
+    "stop_lon": -8.6276630116
+  },
+  {
+    "stop_id": "8400B6073401",
+    "stop_name": "High Road, stop 607341",
+    "stop_lat": 52.6708952795,
+    "stop_lon": -8.6323883506
+  },
+  {
+    "stop_id": "8400B6073501",
+    "stop_name": "Kileely Road, stop 607351",
+    "stop_lat": 52.6741544596,
+    "stop_lon": -8.6397400452
+  },
+  {
+    "stop_id": "8400B6073601",
+    "stop_name": "Knockalisheen Road, stop 607361",
+    "stop_lat": 52.675566637,
+    "stop_lon": -8.6412098191
+  },
+  {
+    "stop_id": "8400B6073701",
+    "stop_name": "Shanbooly Road, stop 607371",
+    "stop_lat": 52.6756253132,
+    "stop_lon": -8.6436505679
+  },
+  {
+    "stop_id": "8400B6073901",
+    "stop_name": "Shanbooly Road, stop 607391",
+    "stop_lat": 52.6788622801,
+    "stop_lon": -8.6450734607
+  },
+  {
+    "stop_id": "8400B6074001",
+    "stop_name": "Shanbooly Avenue, stop 607401",
+    "stop_lat": 52.6758406088,
+    "stop_lon": -8.6437276687
+  },
+  {
+    "stop_id": "8400B6074101",
+    "stop_name": "High Road, stop 607411",
+    "stop_lat": 52.6710643043,
+    "stop_lon": -8.6327160756
+  },
+  {
+    "stop_id": "8400B6074201",
+    "stop_name": "Knockalisheen Road, stop 607421",
+    "stop_lat": 52.6756571506,
+    "stop_lon": -8.6410928467
+  },
+  {
+    "stop_id": "8400B607431",
+    "stop_name": "Stop No. 607431",
+    "stop_lat": 52.677497889,
+    "stop_lon": -8.6447428167
+  },
+  {
+    "stop_id": "8400B6074401",
+    "stop_name": "Sexton Street N, stop 607441",
+    "stop_lat": 52.6722481924,
+    "stop_lon": -8.6365479826
+  },
+  {
+    "stop_id": "8400B6074801",
+    "stop_name": "University Hospital, stop 607481",
+    "stop_lat": 52.6352048273,
+    "stop_lon": -8.6552897152
+  },
+  {
+    "stop_id": "8400B6074901",
+    "stop_name": "Maypark, stop 607491",
+    "stop_lat": 52.6400967836,
+    "stop_lon": -8.6515951346
+  },
+  {
+    "stop_id": "8400B6075101",
+    "stop_name": "South Circular Road, stop 607511",
+    "stop_lat": 52.6446709225,
+    "stop_lon": -8.6451761127
+  },
+  {
+    "stop_id": "8400B6075201",
+    "stop_name": "Lifford Gardens, stop 607521",
+    "stop_lat": 52.6465992702,
+    "stop_lon": -8.6409633731
+  },
+  {
+    "stop_id": "8400B6075301",
+    "stop_name": "Ballinacurra Road, stop 607531",
+    "stop_lat": 52.6477535975,
+    "stop_lon": -8.6385862468
+  },
+  {
+    "stop_id": "8400B6075401",
+    "stop_name": "Lady of Lourdes Ch, stop 607541",
+    "stop_lat": 52.6481742855,
+    "stop_lon": -8.632208304
+  },
+  {
+    "stop_id": "8400B6075701",
+    "stop_name": "Childers Road Retail, stop 607571",
+    "stop_lat": 52.657037718,
+    "stop_lon": -8.5973349566
+  },
+  {
+    "stop_id": "8400B6075801",
+    "stop_name": "Claughaun GAA, stop 607581",
+    "stop_lat": 52.6589207177,
+    "stop_lon": -8.5964441695
+  },
+  {
+    "stop_id": "8400B6075901",
+    "stop_name": "Parkway Retail, stop 607591",
+    "stop_lat": 52.6624521296,
+    "stop_lon": -8.5912443737
+  },
+  {
+    "stop_id": "8400B6076001",
+    "stop_name": "Plassey Park Road, stop 607601",
+    "stop_lat": 52.6670398722,
+    "stop_lon": -8.5795527966
+  },
+  {
+    "stop_id": "8400B6077101",
+    "stop_name": "Parkway Retail, stop 607711",
+    "stop_lat": 52.6622018069,
+    "stop_lon": -8.5909749082
+  },
+  {
+    "stop_id": "8400B6077201",
+    "stop_name": "Childers Road Retail, stop 607721",
+    "stop_lat": 52.6576787334,
+    "stop_lon": -8.5967672307
+  },
+  {
+    "stop_id": "8400B6077301",
+    "stop_name": "Roxboro Shopping Cen, stop 607731",
+    "stop_lat": 52.6485580038,
+    "stop_lon": -8.61739144
+  },
+  {
+    "stop_id": "8400B6077501",
+    "stop_name": "Lady of Lourdes Cen, stop 607751",
+    "stop_lat": 52.6480733734,
+    "stop_lon": -8.6325910742
+  },
+  {
+    "stop_id": "8400B6077601",
+    "stop_name": "Ballinacurra Gardens, stop 607761",
+    "stop_lat": 52.6478091939,
+    "stop_lon": -8.6382767224
+  },
+  {
+    "stop_id": "8400B6077701",
+    "stop_name": "Lifford Gardens, stop 607771",
+    "stop_lat": 52.6459729781,
+    "stop_lon": -8.6420920611
+  },
+  {
+    "stop_id": "8400B6077801",
+    "stop_name": "Cresent Shopping C, stop 607781",
+    "stop_lat": 52.6419756559,
+    "stop_lon": -8.6482541591
+  },
+  {
+    "stop_id": "8400B6077901",
+    "stop_name": "Maypark, stop 607791",
+    "stop_lat": 52.6395555069,
+    "stop_lon": -8.6519564677
+  },
+  {
+    "stop_id": "8400B6078001",
+    "stop_name": "University Hospital, stop 607801",
+    "stop_lat": 52.6354559848,
+    "stop_lon": -8.6553821099
+  },
+  {
+    "stop_id": "8400B6078301",
+    "stop_name": "Sarsfield Street, stop 607831",
+    "stop_lat": 52.6640555256,
+    "stop_lon": -8.6272780811
+  },
+  {
+    "stop_id": "8400B6078401",
+    "stop_name": "O'Connell Street, stop 607841",
+    "stop_lat": 52.6615926358,
+    "stop_lon": -8.6290019336
+  },
+  {
+    "stop_id": "8400B6078501",
+    "stop_name": "The Cresent, stop 607851",
+    "stop_lat": 52.6590624793,
+    "stop_lon": -8.631537614
+  },
+  {
+    "stop_id": "8400B6078601",
+    "stop_name": "The Model NS, stop 607861",
+    "stop_lat": 52.6554153756,
+    "stop_lon": -8.6345150345
+  },
+  {
+    "stop_id": "8400B6078701",
+    "stop_name": "Mount Gerard Court, stop 607871",
+    "stop_lat": 52.6524793763,
+    "stop_lon": -8.6356105428
+  },
+  {
+    "stop_id": "8400B6078801",
+    "stop_name": "Punches Cross, stop 607881",
+    "stop_lat": 52.6500018837,
+    "stop_lon": -8.636683009
+  },
+  {
+    "stop_id": "8400B6078901",
+    "stop_name": "Mulcair Road, stop 607891",
+    "stop_lat": 52.6327787799,
+    "stop_lon": -8.6453261703
+  },
+  {
+    "stop_id": "8400B6079001",
+    "stop_name": "Beverly Court, stop 607901",
+    "stop_lat": 52.6313148666,
+    "stop_lon": -8.6484068093
+  },
+  {
+    "stop_id": "8400B6079301",
+    "stop_name": "Ballycummin Road, stop 607931",
+    "stop_lat": 52.6291605568,
+    "stop_lon": -8.6592911405
+  },
+  {
+    "stop_id": "8400B6080001",
+    "stop_name": "Rosbrien Road, stop 608001",
+    "stop_lat": 52.649506781,
+    "stop_lon": -8.6368236016
+  },
+  {
+    "stop_id": "8400B6080101",
+    "stop_name": "Mount Gerard Court, stop 608011",
+    "stop_lat": 52.6532526914,
+    "stop_lon": -8.6355478593
+  },
+  {
+    "stop_id": "8400B6080201",
+    "stop_name": "O'Connell Avenue, stop 608021",
+    "stop_lat": 52.6559915993,
+    "stop_lon": -8.6343312299
+  },
+  {
+    "stop_id": "8400B608031",
+    "stop_name": "The Crescent, stop 608031",
+    "stop_lat": 52.6588261273,
+    "stop_lon": -8.6320367797
+  },
+  {
+    "stop_id": "8400B6080401",
+    "stop_name": "Henry Street, stop 608041",
+    "stop_lat": 52.6618335975,
+    "stop_lon": -8.631015819
+  },
+  {
+    "stop_id": "8400B6080701",
+    "stop_name": "Quin's Cottages, stop 608071",
+    "stop_lat": 52.6536101795,
+    "stop_lon": -8.6308826348
+  },
+  {
+    "stop_id": "8400B6080801",
+    "stop_name": "Byrne Avenue, stop 608081",
+    "stop_lat": 52.6528265414,
+    "stop_lon": -8.631196504
+  },
+  {
+    "stop_id": "8400B6081001",
+    "stop_name": "Ballyclough Avenue, stop 608101",
+    "stop_lat": 52.6498490371,
+    "stop_lon": -8.6282718197
+  },
+  {
+    "stop_id": "8400B6081101",
+    "stop_name": "Crecora Avenue, stop 608111",
+    "stop_lat": 52.6485451949,
+    "stop_lon": -8.630070834
+  },
+  {
+    "stop_id": "8400B6081201",
+    "stop_name": "Ballycummin Avenue, stop 608121",
+    "stop_lat": 52.6275081424,
+    "stop_lon": -8.6574199322
+  },
+  {
+    "stop_id": "8400B6081401",
+    "stop_name": "FAS Training Centre, stop 608141",
+    "stop_lat": 52.6245917053,
+    "stop_lon": -8.6581885812
+  },
+  {
+    "stop_id": "8400B6081501",
+    "stop_name": "Hyde Avenue, stop 608151",
+    "stop_lat": 52.6484895413,
+    "stop_lon": -8.6303951511
+  },
+  {
+    "stop_id": "8400B6081601",
+    "stop_name": "Hyde Avenue, stop 608161",
+    "stop_lat": 52.6499840055,
+    "stop_lon": -8.6282441971
+  },
+  {
+    "stop_id": "8400B6081701",
+    "stop_name": "Hyde Road, stop 608171",
+    "stop_lat": 52.6528276403,
+    "stop_lon": -8.6259054566
+  },
+  {
+    "stop_id": "8400B6081801",
+    "stop_name": "Meagher Close, stop 608181",
+    "stop_lat": 52.6565178733,
+    "stop_lon": -8.6249382896
+  },
+  {
+    "stop_id": "8400B6081901",
+    "stop_name": "Upper Mallow Street, stop 608191",
+    "stop_lat": 52.6584693316,
+    "stop_lon": -8.6264442606
+  },
+  {
+    "stop_id": "8400B6082101",
+    "stop_name": "Upper Mallow Street, stop 608211",
+    "stop_lat": 52.6591712818,
+    "stop_lon": -8.6279768052
+  },
+  {
+    "stop_id": "8400B6082201",
+    "stop_name": "Hyde Road, stop 608221",
+    "stop_lat": 52.6581610155,
+    "stop_lon": -8.6252573488
+  },
+  {
+    "stop_id": "8400B6082301",
+    "stop_name": "Granville Park, stop 608231",
+    "stop_lat": 52.6588004308,
+    "stop_lon": -8.6006848224
+  },
+  {
+    "stop_id": "8400B6082401",
+    "stop_name": "Cathal Brugha Road, stop 608241",
+    "stop_lat": 52.6574815846,
+    "stop_lon": -8.6019822582
+  },
+  {
+    "stop_id": "8400B6082501",
+    "stop_name": "St Brigids Church, stop 608251",
+    "stop_lat": 52.6591071914,
+    "stop_lon": -8.6022263144
+  },
+  {
+    "stop_id": "8400B6082601",
+    "stop_name": "Claughaun Fort, stop 608261",
+    "stop_lat": 52.6614766036,
+    "stop_lon": -8.6046684127
+  },
+  {
+    "stop_id": "8400B6082701",
+    "stop_name": "S Claughaun Road, stop 608271",
+    "stop_lat": 52.6613410073,
+    "stop_lon": -8.6083325672
+  },
+  {
+    "stop_id": "8400B6082801",
+    "stop_name": "Claughaun Avenue, stop 608281",
+    "stop_lat": 52.6609010979,
+    "stop_lon": -8.6117263692
+  },
+  {
+    "stop_id": "8400B6082901",
+    "stop_name": "Gearldine Villas, stop 608291",
+    "stop_lat": 52.6596222491,
+    "stop_lon": -8.6139553472
+  },
+  {
+    "stop_id": "8400B6083001",
+    "stop_name": "Rossa Avenue, stop 608301",
+    "stop_lat": 52.6594982793,
+    "stop_lon": -8.617057777
+  },
+  {
+    "stop_id": "8400B6083101",
+    "stop_name": "Limerick Fire Sta, stop 608311",
+    "stop_lat": 52.6601625493,
+    "stop_lon": -8.618944442
+  },
+  {
+    "stop_id": "8400B6083201",
+    "stop_name": "Sexton Street, stop 608321",
+    "stop_lat": 52.6605023027,
+    "stop_lon": -8.622718674
+  },
+  {
+    "stop_id": "8400B6083301",
+    "stop_name": "Waterville, stop 608331",
+    "stop_lat": 52.6675521834,
+    "stop_lon": -8.6489282777
+  },
+  {
+    "stop_id": "8400B6083401",
+    "stop_name": "Fortmary Park, stop 608341",
+    "stop_lat": 52.6686619384,
+    "stop_lon": -8.6530696955
+  },
+  {
+    "stop_id": "8400B6083601",
+    "stop_name": "Jetland Centre, stop 608361",
+    "stop_lat": 52.6705278638,
+    "stop_lon": -8.6602093415
+  },
+  {
+    "stop_id": "8400B6083701",
+    "stop_name": "Inagh Drive, stop 608371",
+    "stop_lat": 52.6723762142,
+    "stop_lon": -8.6672014703
+  },
+  {
+    "stop_id": "8400B6083801",
+    "stop_name": "Inagh Drive, stop 608381",
+    "stop_lat": 52.6727927056,
+    "stop_lon": -8.6682576405
+  },
+  {
+    "stop_id": "8400B6083901",
+    "stop_name": "Melvin Grove, stop 608391",
+    "stop_lat": 52.6716525849,
+    "stop_lon": -8.6632130436
+  },
+  {
+    "stop_id": "8400B608401",
+    "stop_name": "Gaelic Grounds, stop 608401",
+    "stop_lat": 52.6695362592,
+    "stop_lon": -8.6558771269
+  },
+  {
+    "stop_id": "8400B6084101",
+    "stop_name": "Highfield, stop 608411",
+    "stop_lat": 52.6682856491,
+    "stop_lon": -8.651215993
+  },
+  {
+    "stop_id": "8400B6084201",
+    "stop_name": "Limerick Tennis Club, stop 608421",
+    "stop_lat": 52.666967972,
+    "stop_lon": -8.6439816704
+  },
+  {
+    "stop_id": "8400B6084301",
+    "stop_name": "Mulgrave Street, stop 608431",
+    "stop_lat": 52.660623715,
+    "stop_lon": -8.6201335267
+  },
+  {
+    "stop_id": "8400B6084401",
+    "stop_name": "Limerick College, stop 608441",
+    "stop_lat": 52.6595282416,
+    "stop_lon": -8.6164817104
+  },
+  {
+    "stop_id": "8400B6084501",
+    "stop_name": "Gearldine Villas, stop 608451",
+    "stop_lat": 52.6596482159,
+    "stop_lon": -8.6141478744
+  },
+  {
+    "stop_id": "8400B6084601",
+    "stop_name": "S Claughaun Road, stop 608461",
+    "stop_lat": 52.6609998073,
+    "stop_lon": -8.6117573118
+  },
+  {
+    "stop_id": "8400B6084701",
+    "stop_name": "Kilmurry Road, stop 608471",
+    "stop_lat": 52.6614132105,
+    "stop_lon": -8.6082744401
+  },
+  {
+    "stop_id": "8400B6084901",
+    "stop_name": "St Brigid's Church, stop 608491",
+    "stop_lat": 52.6592428295,
+    "stop_lon": -8.6020655804
+  },
+  {
+    "stop_id": "8400B6085001",
+    "stop_name": "Ballysimon Road, stop 608501",
+    "stop_lat": 52.6589356784,
+    "stop_lon": -8.6146256791
+  },
+  {
+    "stop_id": "8400B6085101",
+    "stop_name": "Greenhill Road, stop 608511",
+    "stop_lat": 52.6574413078,
+    "stop_lon": -8.6098600023
+  },
+  {
+    "stop_id": "8400B6085201",
+    "stop_name": "Fairgreen, stop 608521",
+    "stop_lat": 52.6566189064,
+    "stop_lon": -8.607232361
+  },
+  {
+    "stop_id": "8400B6085301",
+    "stop_name": "St Patrick's Road, stop 608531",
+    "stop_lat": 52.6558224285,
+    "stop_lon": -8.604797323
+  },
+  {
+    "stop_id": "8400B6085701",
+    "stop_name": "St Jude's Avenue, stop 608571",
+    "stop_lat": 52.6551307436,
+    "stop_lon": -8.6029550247
+  },
+  {
+    "stop_id": "8400B608581",
+    "stop_name": "Fairgreen, stop 608581",
+    "stop_lat": 52.6561215092,
+    "stop_lon": -8.6060725821
+  },
+  {
+    "stop_id": "8400B6085901",
+    "stop_name": "Greenhill Road, stop 608591",
+    "stop_lat": 52.6572796095,
+    "stop_lon": -8.609842971
+  },
+  {
+    "stop_id": "8400B6086001",
+    "stop_name": "St Joseph's Hospital, stop 608601",
+    "stop_lat": 52.6585087233,
+    "stop_lon": -8.6137623687
+  },
+  {
+    "stop_id": "8400B608611",
+    "stop_name": "Johnsgate, stop 608611",
+    "stop_lat": 52.6638475872,
+    "stop_lon": -8.6172372982
+  },
+  {
+    "stop_id": "8400B608621",
+    "stop_name": "Keating Street, Stop No. 608621",
+    "stop_lat": 52.6642546895,
+    "stop_lon": -8.6132663123
+  },
+  {
+    "stop_id": "8400B6086301",
+    "stop_name": "Airmount Terrace, stop 608631",
+    "stop_lat": 52.6641943251,
+    "stop_lon": -8.6022518898
+  },
+  {
+    "stop_id": "8400B6086401",
+    "stop_name": "Carriage Court, stop 608641",
+    "stop_lat": 52.6641806769,
+    "stop_lon": -8.6031682679
+  },
+  {
+    "stop_id": "8400B6086601",
+    "stop_name": "Meadowlands Avenue, stop 608661",
+    "stop_lat": 52.6468953729,
+    "stop_lon": -8.594507248
+  },
+  {
+    "stop_id": "8400B6086701",
+    "stop_name": "St Enda's School, stop 608671",
+    "stop_lat": 52.6483471107,
+    "stop_lon": -8.5971574152
+  },
+  {
+    "stop_id": "8400B6086801",
+    "stop_name": "Delmege Park, stop 608681",
+    "stop_lat": 52.6822019806,
+    "stop_lon": -8.6556083768
+  },
+  {
+    "stop_id": "8400B6086901",
+    "stop_name": "Pineview Gardens, stop 608691",
+    "stop_lat": 52.682758705,
+    "stop_lon": -8.6540785921
+  },
+  {
+    "stop_id": "8400B6087001",
+    "stop_name": "Moyross Sports Field, stop 608701",
+    "stop_lat": 52.6818698634,
+    "stop_lon": -8.6506341897
+  },
+  {
+    "stop_id": "8400B6087101",
+    "stop_name": "Moyross Comm Cen, stop 608711",
+    "stop_lat": 52.6814798508,
+    "stop_lon": -8.6479959177
+  },
+  {
+    "stop_id": "8400B6087201",
+    "stop_name": "Cosgrave Park, stop 608721",
+    "stop_lat": 52.6804559475,
+    "stop_lon": -8.6429081909
+  },
+  {
+    "stop_id": "8400B6087301",
+    "stop_name": "Watchhouse Cross, stop 608731",
+    "stop_lat": 52.6791807211,
+    "stop_lon": -8.639384614
+  },
+  {
+    "stop_id": "8400B6087401",
+    "stop_name": "Hyde Road Middle, stop 608741",
+    "stop_lat": 52.6551977324,
+    "stop_lon": -8.6247273205
+  },
+  {
+    "stop_id": "8400B6087701",
+    "stop_name": "Liddy Street, stop 608771",
+    "stop_lat": 52.6646898752,
+    "stop_lon": -8.6279967721
+  },
+  {
+    "stop_id": "8400B6087801",
+    "stop_name": "Island Road, stop 608781",
+    "stop_lat": 52.6695936413,
+    "stop_lon": -8.6218868785
+  },
+  {
+    "stop_id": "8400B6087901",
+    "stop_name": "Assumpta Park, stop 608791",
+    "stop_lat": 52.6721431662,
+    "stop_lon": -8.6241853393
+  },
+  {
+    "stop_id": "8400B6088001",
+    "stop_name": "St Munchin's Street, stop 608801",
+    "stop_lat": 52.6734258885,
+    "stop_lon": -8.6263772293
+  },
+  {
+    "stop_id": "8400B6088101",
+    "stop_name": "St Patrick's Avenue, stop 608811",
+    "stop_lat": 52.6748598869,
+    "stop_lon": -8.6271518732
+  },
+  {
+    "stop_id": "8400B6088201",
+    "stop_name": "St Bridget's Avenue, stop 608821",
+    "stop_lat": 52.675989326,
+    "stop_lon": -8.6277299662
+  },
+  {
+    "stop_id": "8400B6088301",
+    "stop_name": "Oliver Plunkett St, stop 608831",
+    "stop_lat": 52.6778286884,
+    "stop_lon": -8.6283330634
+  },
+  {
+    "stop_id": "8400B6088401",
+    "stop_name": "St Columcille Street, stop 608841",
+    "stop_lat": 52.6759455633,
+    "stop_lon": -8.6275075293
+  },
+  {
+    "stop_id": "8400B6088501",
+    "stop_name": "St Senan's Street, stop 608851",
+    "stop_lat": 52.6747975226,
+    "stop_lon": -8.6270474717
+  },
+  {
+    "stop_id": "8400B6088601",
+    "stop_name": "St Ita's Street, stop 608861",
+    "stop_lat": 52.6730954632,
+    "stop_lon": -8.6259732723
+  },
+  {
+    "stop_id": "8400B6088701",
+    "stop_name": "Assumpta Park, stop 608871",
+    "stop_lat": 52.6720900202,
+    "stop_lon": -8.6240367218
+  },
+  {
+    "stop_id": "8400B6088801",
+    "stop_name": "Lee Estate, stop 608881",
+    "stop_lat": 52.6697207837,
+    "stop_lon": -8.6216373352
+  },
+  {
+    "stop_id": "8400B608891",
+    "stop_name": "Treaty Stone, stop 608891",
+    "stop_lat": 52.6698023843,
+    "stop_lon": -8.6283214176
+  },
+  {
+    "stop_id": "8400B6089401",
+    "stop_name": "Cosgrove Park, stop 608941",
+    "stop_lat": 52.6798051549,
+    "stop_lon": -8.6385951468
+  },
+  {
+    "stop_id": "8400B6089501",
+    "stop_name": "Moyross Enterprise C, stop 608951",
+    "stop_lat": 52.6821371302,
+    "stop_lon": -8.6411729378
+  },
+  {
+    "stop_id": "8400B6089601",
+    "stop_name": "Castle Park, stop 608961",
+    "stop_lat": 52.6840343598,
+    "stop_lon": -8.6443510043
+  },
+  {
+    "stop_id": "8400B6089701",
+    "stop_name": "Sarsfield Gardens, stop 608971",
+    "stop_lat": 52.683768295,
+    "stop_lon": -8.6469944916
+  },
+  {
+    "stop_id": "8400B6089801",
+    "stop_name": "Glenagross Park, stop 608981",
+    "stop_lat": 52.683162505,
+    "stop_lon": -8.6443529622
+  },
+  {
+    "stop_id": "8400B6089901",
+    "stop_name": "Corpus Christi Ch, stop 608991",
+    "stop_lat": 52.6807896792,
+    "stop_lon": -8.6443476199
+  },
+  {
+    "stop_id": "8400B6090001",
+    "stop_name": "Moyross Comm Cen, stop 609001",
+    "stop_lat": 52.6813631768,
+    "stop_lon": -8.6479646126
+  },
+  {
+    "stop_id": "8400B6090101",
+    "stop_name": "Pineview Gardens, stop 609011",
+    "stop_lat": 52.6827139315,
+    "stop_lon": -8.654048344
+  },
+  {
+    "stop_id": "8400B6090201",
+    "stop_name": "Fr Russell Road, stop 609021",
+    "stop_lat": 52.6380182542,
+    "stop_lon": -8.6585082809
+  },
+  {
+    "stop_id": "8400B6090301",
+    "stop_name": "Ballinvoher, stop 609031",
+    "stop_lat": 52.6365786088,
+    "stop_lon": -8.6668192306
+  },
+  {
+    "stop_id": "8400B6090601",
+    "stop_name": "Rathmore, stop 609061",
+    "stop_lat": 52.6254966148,
+    "stop_lon": -8.6456473894
+  },
+  {
+    "stop_id": "8400B6090701",
+    "stop_name": "The Forts, stop 609071",
+    "stop_lat": 52.627590225,
+    "stop_lon": -8.6441124744
+  },
+  {
+    "stop_id": "8400B6090801",
+    "stop_name": "Dooradoyle Road, stop 609081",
+    "stop_lat": 52.6319892606,
+    "stop_lon": -8.6434089024
+  },
+  {
+    "stop_id": "8400B609111",
+    "stop_name": "Swallow Drive, stop 609111",
+    "stop_lat": 52.6456199964,
+    "stop_lon": -8.6189016564
+  },
+  {
+    "stop_id": "8400B6091401",
+    "stop_name": "O'Callaghan Avenue, stop 609141",
+    "stop_lat": 52.672986515,
+    "stop_lon": -8.6379781996
+  },
+  {
+    "stop_id": "8400B6091501",
+    "stop_name": "Hogan Avenue, stop 609151",
+    "stop_lat": 52.6742939816,
+    "stop_lon": -8.6371987611
+  },
+  {
+    "stop_id": "8400B6091601",
+    "stop_name": "Hennessy Avenue, stop 609161",
+    "stop_lat": 52.6762508367,
+    "stop_lon": -8.6359998787
+  },
+  {
+    "stop_id": "8400B609171",
+    "stop_name": "Watchhouse Cross, stop 609171",
+    "stop_lat": 52.6790333319,
+    "stop_lon": -8.6400479379
+  },
+  {
+    "stop_id": "8400B6091801",
+    "stop_name": "Hennessy Avenue, stop 609181",
+    "stop_lat": 52.6760714855,
+    "stop_lon": -8.6359233372
+  },
+  {
+    "stop_id": "8400B6091901",
+    "stop_name": "O'Callaghan Avenue, stop 609191",
+    "stop_lat": 52.674222003,
+    "stop_lon": -8.6372125005
+  },
+  {
+    "stop_id": "8400B6092001",
+    "stop_name": "Moyross Sports Field, stop 609201",
+    "stop_lat": 52.6819614411,
+    "stop_lon": -8.6503249741
+  },
+  {
+    "stop_id": "8400B6092301",
+    "stop_name": "Lilac Court, stop 609231",
+    "stop_lat": 52.6465410133,
+    "stop_lon": -8.6129002663
+  },
+  {
+    "stop_id": "8400B6092401",
+    "stop_name": "Southhill Health Cen, stop 609241",
+    "stop_lat": 52.6454172842,
+    "stop_lon": -8.6094562934
+  },
+  {
+    "stop_id": "8400B6092501",
+    "stop_name": "Castle Oaks View, stop 609251",
+    "stop_lat": 52.6457485206,
+    "stop_lon": -8.6062099352
+  },
+  {
+    "stop_id": "8400B6092601",
+    "stop_name": "Country View, stop 609261",
+    "stop_lat": 52.6465814636,
+    "stop_lon": -8.6032659766
+  },
+  {
+    "stop_id": "8400B6092701",
+    "stop_name": "Mountain View, stop 609271",
+    "stop_lat": 52.6478774673,
+    "stop_lon": -8.6029291438
+  },
+  {
+    "stop_id": "8400B6092801",
+    "stop_name": "Oisin Drive, stop 609281",
+    "stop_lat": 52.6480479555,
+    "stop_lon": -8.6047491676
+  },
+  {
+    "stop_id": "8400B6092901",
+    "stop_name": "Galtee View, stop 609291",
+    "stop_lat": 52.6473877074,
+    "stop_lon": -8.6073113714
+  },
+  {
+    "stop_id": "8400B6093001",
+    "stop_name": "Roxboro Garda Stn, stop 609301",
+    "stop_lat": 52.6509934611,
+    "stop_lon": -8.6157261728
+  },
+  {
+    "stop_id": "8400B6093201",
+    "stop_name": "Kileely Road, stop 609321",
+    "stop_lat": 52.6740379428,
+    "stop_lon": -8.6396791965
+  },
+  {
+    "stop_id": "8400B6093401",
+    "stop_name": "Mallow Street, stop 609341",
+    "stop_lat": 52.6598272541,
+    "stop_lon": -8.6297009029
+  },
+  {
+    "stop_id": "8400B609361",
+    "stop_name": "Sycamore Avenue, stop 609361",
+    "stop_lat": 52.648452619,
+    "stop_lon": -8.6220745896
+  },
+  {
+    "stop_id": "8400B6093901",
+    "stop_name": "Barrington Street, stop 609391",
+    "stop_lat": 52.6583610663,
+    "stop_lon": -8.631601412
+  },
+  {
+    "stop_id": "8400B609501",
+    "stop_name": "Moylish Road, stop 609501",
+    "stop_lat": 52.677326968,
+    "stop_lon": -8.6447698757
+  },
+  {
+    "stop_id": "8400B609571",
+    "stop_name": "Coonagh Cross, stop 609571",
+    "stop_lat": 52.6604481733,
+    "stop_lon": -8.6346174766
+  },
+  {
+    "stop_id": "8400B609591",
+    "stop_name": "Barrington Street, stop 609591",
+    "stop_lat": 52.658297209,
+    "stop_lon": -8.6317778679
+  },
+  {
+    "stop_id": "8400B609701",
+    "stop_name": "Fr Russel Square, stop 609701",
+    "stop_lat": 52.6585345866,
+    "stop_lon": -8.6260017506
+  },
+  {
+    "stop_id": "8400B609741",
+    "stop_name": "Kylemore, Stop No. 609741",
+    "stop_lat": 52.6549405702,
+    "stop_lon": -8.5611540435
+  },
+  {
+    "stop_id": "8400B609751",
+    "stop_name": "Fox Hollow, stop 609751",
+    "stop_lat": 52.6544280686,
+    "stop_lon": -8.5649755014
+  },
+  {
+    "stop_id": "8400B609761",
+    "stop_name": "Pennywell Road, stop 609761",
+    "stop_lat": 52.6648457563,
+    "stop_lon": -8.6101996082
+  },
+  {
+    "stop_id": "8400B609771",
+    "stop_name": "Kilbane, Stop No. 609771",
+    "stop_lat": 52.6619229073,
+    "stop_lon": -8.5689895102
+  },
+  {
+    "stop_id": "8400B609791",
+    "stop_name": "Raheen Ind Est, stop 609791",
+    "stop_lat": 52.6187450663,
+    "stop_lon": -8.6573477153
+  },
+  {
+    "stop_id": "8400B609801",
+    "stop_name": "Avonmore Road, stop 609801",
+    "stop_lat": 52.6307277017,
+    "stop_lon": -8.6554739541
+  },
+  {
+    "stop_id": "8400B609821",
+    "stop_name": "Garryowen Stores, stop 609821",
+    "stop_lat": 52.6607827024,
+    "stop_lon": -8.6137646568
+  },
+  {
+    "stop_id": "8400B609891",
+    "stop_name": "Shelbourne Park, stop 609891",
+    "stop_lat": 52.6704126718,
+    "stop_lon": -8.6402472397
+  },
+  {
+    "stop_id": "8400B6350301",
+    "stop_name": "Colbert Station, stop 635031",
+    "stop_lat": 52.6585424624,
+    "stop_lon": -8.6245089385
+  },
+  {
+    "stop_id": "8400B6370801",
+    "stop_name": "Old Cratloe Road, stop 637081",
+    "stop_lat": 52.6743445343,
+    "stop_lon": -8.6494133753
+  },
+  {
+    "stop_id": "8410B108741",
+    "stop_name": "School Road, stop 108741",
+    "stop_lat": 52.6897148791,
+    "stop_lon": -8.5095174954
+  },
+  {
+    "stop_id": "8410B1554601",
+    "stop_name": "Annacotty Bridge, stop 155461",
+    "stop_lat": 52.6698439751,
+    "stop_lon": -8.5256091528
+  },
+  {
+    "stop_id": "8410B1554701",
+    "stop_name": "Annacotty Bridge, stop 155471",
+    "stop_lat": 52.6688036647,
+    "stop_lon": -8.5311409802
+  },
+  {
+    "stop_id": "8410B1554901",
+    "stop_name": "Dalys Cross, stop 155491",
+    "stop_lat": 52.7100637494,
+    "stop_lon": -8.4903237464
+  },
+  {
+    "stop_id": "8410B311661",
+    "stop_name": "St Nessans School, stop 311661",
+    "stop_lat": 52.6319391927,
+    "stop_lon": -8.6686838939
+  },
+  {
+    "stop_id": "8410B311681",
+    "stop_name": "Russell House, stop 311681",
+    "stop_lat": 52.6365774447,
+    "stop_lon": -8.6670260497
+  },
+  {
+    "stop_id": "8410B311691",
+    "stop_name": "Rosebrook, stop 311691",
+    "stop_lat": 52.637988828,
+    "stop_lon": -8.6589510748
+  },
+  {
+    "stop_id": "8410B3301401",
+    "stop_name": "Galbally, stop 330141",
+    "stop_lat": 52.4014789987,
+    "stop_lon": -8.296166301
+  },
+  {
+    "stop_id": "8410B331801",
+    "stop_name": "Dromkeen, stop 331801",
+    "stop_lat": 52.5833499142,
+    "stop_lon": -8.3885677106
+  },
+  {
+    "stop_id": "8410B331811",
+    "stop_name": "Oola, stop 331811",
+    "stop_lat": 52.5293340025,
+    "stop_lon": -8.2593704726
+  },
+  {
+    "stop_id": "8410B3320801",
+    "stop_name": "Mungret, stop 332081",
+    "stop_lat": 52.6356633494,
+    "stop_lon": -8.6931764772
+  },
+  {
+    "stop_id": "8410B3320901",
+    "stop_name": "Clarina, stop 332091",
+    "stop_lat": 52.6324085447,
+    "stop_lon": -8.7307510806
+  },
+  {
+    "stop_id": "8410B3321201",
+    "stop_name": "Kildimo, stop 332121",
+    "stop_lat": 52.6237587944,
+    "stop_lon": -8.8126386448
+  },
+  {
+    "stop_id": "8410B3321401",
+    "stop_name": "Askeaton, stop 332141",
+    "stop_lat": 52.6003497207,
+    "stop_lon": -8.9729052981
+  },
+  {
+    "stop_id": "8410B3321701",
+    "stop_name": "Shanagolden, stop 332171",
+    "stop_lat": 52.5746948913,
+    "stop_lon": -9.100428203
+  },
+  {
+    "stop_id": "8410B3321801",
+    "stop_name": "Loughill, stop 332181",
+    "stop_lat": 52.5946026404,
+    "stop_lon": -9.1961023225
+  },
+  {
+    "stop_id": "8410B3322001",
+    "stop_name": "Glin, stop 332201",
+    "stop_lat": 52.5708792674,
+    "stop_lon": -9.2847099303
+  },
+  {
+    "stop_id": "8410B3322101",
+    "stop_name": "Pallaskenry NS, stop 332211",
+    "stop_lat": 52.6393079015,
+    "stop_lon": -8.8672401668
+  },
+  {
+    "stop_id": "8410B3324801",
+    "stop_name": "Lantern Lodge, stop 332481",
+    "stop_lat": 52.5738265348,
+    "stop_lon": -8.7726933055
+  },
+  {
+    "stop_id": "8410B3325201",
+    "stop_name": "Croagh, stop 332521",
+    "stop_lat": 52.5337476645,
+    "stop_lon": -8.8710547785
+  },
+  {
+    "stop_id": "8410B3325301",
+    "stop_name": "Rathkeale, stop 332531",
+    "stop_lat": 52.5212598289,
+    "stop_lon": -8.9418478729
+  },
+  {
+    "stop_id": "8410B3325501",
+    "stop_name": "Devon Road Cross, stop 332551",
+    "stop_lat": 52.3826392486,
+    "stop_lon": -9.217232816
+  },
+  {
+    "stop_id": "8410B3327501",
+    "stop_name": "Templeglantine, stop 332751",
+    "stop_lat": 52.3968908301,
+    "stop_lon": -9.1750698757
+  },
+  {
+    "stop_id": "8410B332891",
+    "stop_name": "Brookfield, stop 332891",
+    "stop_lat": 52.6571144479,
+    "stop_lon": -8.5745438217
+  },
+  {
+    "stop_id": "8410B3329301",
+    "stop_name": "Patrickswell, stop 332931",
+    "stop_lat": 52.5983455572,
+    "stop_lon": -8.7066547316
+  },
+  {
+    "stop_id": "8410B3329401",
+    "stop_name": "Collopys Cross, stop 332941",
+    "stop_lat": 52.5934398855,
+    "stop_lon": -8.7197708697
+  },
+  {
+    "stop_id": "8410B3329701",
+    "stop_name": "Fanningstown Cross, stop 332971",
+    "stop_lat": 52.5438856068,
+    "stop_lon": -8.7244886145
+  },
+  {
+    "stop_id": "8410B3329801",
+    "stop_name": "Croom, stop 332981",
+    "stop_lat": 52.5190288769,
+    "stop_lon": -8.7177584917
+  },
+  {
+    "stop_id": "8410B3330201",
+    "stop_name": "Bruree, stop 333021",
+    "stop_lat": 52.4243557782,
+    "stop_lon": -8.6603189864
+  },
+  {
+    "stop_id": "8410B3335101",
+    "stop_name": "Dalys Cross, stop 333511",
+    "stop_lat": 52.7091276348,
+    "stop_lon": -8.4906536165
+  },
+  {
+    "stop_id": "8410B3340101",
+    "stop_name": "Caherconlish, stop 334011",
+    "stop_lat": 52.5956922482,
+    "stop_lon": -8.4722193338
+  },
+  {
+    "stop_id": "8410B3340301",
+    "stop_name": "Caherline Cross, stop 334031",
+    "stop_lat": 52.56452702,
+    "stop_lon": -8.459332568
+  },
+  {
+    "stop_id": "8410B3340501",
+    "stop_name": "Herbertstown, stop 334051",
+    "stop_lat": 52.5180399398,
+    "stop_lon": -8.4684984652
+  },
+  {
+    "stop_id": "8410B3340801",
+    "stop_name": "Hospital, stop 334081",
+    "stop_lat": 52.4722920897,
+    "stop_lon": -8.4324076366
+  },
+  {
+    "stop_id": "8410B334091",
+    "stop_name": "Caherconlish, stop 334091",
+    "stop_lat": 52.5948772789,
+    "stop_lon": -8.4737308411
+  },
+  {
+    "stop_id": "8410B3341001",
+    "stop_name": "Knocklong, stop 334101",
+    "stop_lat": 52.4371341865,
+    "stop_lon": -8.4109734142
+  },
+  {
+    "stop_id": "8410B3341301",
+    "stop_name": "Ballylanders, stop 334131",
+    "stop_lat": 52.3720338217,
+    "stop_lon": -8.348572525
+  },
+  {
+    "stop_id": "8410B334151",
+    "stop_name": "Inch St Lawrence, stop 334151",
+    "stop_lat": 52.5896866507,
+    "stop_lon": -8.5052573317
+  },
+  {
+    "stop_id": "8410B334191",
+    "stop_name": "Caherconlish, stop 334191",
+    "stop_lat": 52.5944874759,
+    "stop_lon": -8.4723096993
+  },
+  {
+    "stop_id": "8410B334201",
+    "stop_name": "Caherline Cross, stop 334201",
+    "stop_lat": 52.5640319456,
+    "stop_lon": -8.4595191403
+  },
+  {
+    "stop_id": "8410B334211",
+    "stop_name": "Caherline Cross, stop 334211",
+    "stop_lat": 52.5182286854,
+    "stop_lon": -8.4685004729
+  },
+  {
+    "stop_id": "8410B334221",
+    "stop_name": "Scoil Iosagain, stop 334221",
+    "stop_lat": 52.4801384475,
+    "stop_lon": -8.4325287223
+  },
+  {
+    "stop_id": "8410B334231",
+    "stop_name": "John the Baptist Ch, stop 334231",
+    "stop_lat": 52.4761596165,
+    "stop_lon": -8.4317095413
+  },
+  {
+    "stop_id": "8410B334241",
+    "stop_name": "Hospital, stop 334241",
+    "stop_lat": 52.4719321392,
+    "stop_lon": -8.4325218583
+  },
+  {
+    "stop_id": "8410B334251",
+    "stop_name": "John the Baptist Ch, stop 334251",
+    "stop_lat": 52.4761853447,
+    "stop_lon": -8.432048356
+  },
+  {
+    "stop_id": "8410B334261",
+    "stop_name": "Stop No. 334261",
+    "stop_lat": 52.5898589909,
+    "stop_lon": -8.5048903581
+  },
+  {
+    "stop_id": "8410B334271",
+    "stop_name": "Knocklong, stop 334271",
+    "stop_lat": 52.4363921055,
+    "stop_lon": -8.4098340827
+  },
+  {
+    "stop_id": "8410B334281",
+    "stop_name": "Ballylanders, stop 334281",
+    "stop_lat": 52.3718626986,
+    "stop_lon": -8.348688661
+  },
+  {
+    "stop_id": "8410B334341",
+    "stop_name": "Ballyneety, stop 334341",
+    "stop_lat": 52.5973521756,
+    "stop_lon": -8.5480188734
+  },
+  {
+    "stop_id": "8410B3343901",
+    "stop_name": "Bruff, stop 334391",
+    "stop_lat": 52.4777011646,
+    "stop_lon": -8.5478559524
+  },
+  {
+    "stop_id": "8410B3344301",
+    "stop_name": "Kilmallock, stop 334431",
+    "stop_lat": 52.3991723572,
+    "stop_lon": -8.5737591771
+  },
+  {
+    "stop_id": "8410B3344601",
+    "stop_name": "Kilfinane, stop 334461",
+    "stop_lat": 52.358284339,
+    "stop_lon": -8.4720188623
+  },
+  {
+    "stop_id": "8410B3345801",
+    "stop_name": "Ballyneety, stop 334581",
+    "stop_lat": 52.5970806331,
+    "stop_lon": -8.5484287841
+  },
+  {
+    "stop_id": "8410B3347901",
+    "stop_name": "Bog Road, stop 334791",
+    "stop_lat": 52.6822075639,
+    "stop_lon": -8.495217572
+  },
+  {
+    "stop_id": "8410B3348101",
+    "stop_name": "Doon, stop 334811",
+    "stop_lat": 52.6042241814,
+    "stop_lon": -8.2505415071
+  },
+  {
+    "stop_id": "8410B335051",
+    "stop_name": "Bog Road, stop 335051",
+    "stop_lat": 52.6821087003,
+    "stop_lon": -8.4952164538
+  },
+  {
+    "stop_id": "8410B335101",
+    "stop_name": "Cappahana Cross, stop 335101",
+    "stop_lat": 52.6644075982,
+    "stop_lon": -8.4192814881
+  },
+  {
+    "stop_id": "8410B335111",
+    "stop_name": "Murroe, stop 335111",
+    "stop_lat": 52.649383283,
+    "stop_lon": -8.4000147633
+  },
+  {
+    "stop_id": "8410B335121",
+    "stop_name": "Drumsally Cross, stop 335121",
+    "stop_lat": 52.6174377739,
+    "stop_lon": -8.370188646
+  },
+  {
+    "stop_id": "8410B335131",
+    "stop_name": "Cappamore, stop 335131",
+    "stop_lat": 52.6152270522,
+    "stop_lon": -8.3369449661
+  },
+  {
+    "stop_id": "8410B335461",
+    "stop_name": "Mungret, stop 335461",
+    "stop_lat": 52.6357909867,
+    "stop_lon": -8.6928682445
+  },
+  {
+    "stop_id": "8410B335471",
+    "stop_name": "Clarina, stop 335471",
+    "stop_lat": 52.6322662589,
+    "stop_lon": -8.7319600681
+  },
+  {
+    "stop_id": "8410B335481",
+    "stop_name": "Kildimo, stop 335481",
+    "stop_lat": 52.6236938828,
+    "stop_lon": -8.8116183232
+  },
+  {
+    "stop_id": "8410B335491",
+    "stop_name": "Askeaton, stop 335491",
+    "stop_lat": 52.6004389821,
+    "stop_lon": -8.9729810868
+  },
+  {
+    "stop_id": "8410B335501",
+    "stop_name": "Foynes, stop 335501",
+    "stop_lat": 52.6118061315,
+    "stop_lon": -9.1093469264
+  },
+  {
+    "stop_id": "8410B335511",
+    "stop_name": "Loughill, stop 335511",
+    "stop_lat": 52.5959252288,
+    "stop_lon": -9.1915181664
+  },
+  {
+    "stop_id": "8410B3356701",
+    "stop_name": "Sheehan's Road, stop 335671",
+    "stop_lat": 52.4491031472,
+    "stop_lon": -9.0503061989
+  },
+  {
+    "stop_id": "8410B3356801",
+    "stop_name": "Foynes, stop 335681",
+    "stop_lat": 52.6117217972,
+    "stop_lon": -9.1097139486
+  },
+  {
+    "stop_id": "8410B3356901",
+    "stop_name": "South Quay, stop 335691",
+    "stop_lat": 52.4494263835,
+    "stop_lon": -9.0614212505
+  },
+  {
+    "stop_id": "8410B3357001",
+    "stop_name": "South Quay, stop 335701",
+    "stop_lat": 52.4488850707,
+    "stop_lon": -9.0626440084
+  },
+  {
+    "stop_id": "8410B3357101",
+    "stop_name": "Killarney Road, stop 335711",
+    "stop_lat": 52.3779171701,
+    "stop_lon": -9.3059226662
+  },
+  {
+    "stop_id": "8410B3357201",
+    "stop_name": "Killarney Road, stop 335721",
+    "stop_lat": 52.3775677471,
+    "stop_lon": -9.3066320775
+  },
+  {
+    "stop_id": "8410B335731",
+    "stop_name": "Abbeyfeale, stop 335731",
+    "stop_lat": 52.3865813889,
+    "stop_lon": -9.2954097423
+  },
+  {
+    "stop_id": "8410B3360401",
+    "stop_name": "Castleconnell, stop 336041",
+    "stop_lat": 52.7129427899,
+    "stop_lon": -8.5003902378
+  },
+  {
+    "stop_id": "8410B336051",
+    "stop_name": "Devon Road Cross, stop 336051",
+    "stop_lat": 52.3830548223,
+    "stop_lon": -9.216157196
+  },
+  {
+    "stop_id": "8410B3360601",
+    "stop_name": "Bunkeys Cross, stop 336061",
+    "stop_lat": 52.6945927598,
+    "stop_lon": -8.4687589765
+  },
+  {
+    "stop_id": "8410B336071",
+    "stop_name": "Templeglantine, stop 336071",
+    "stop_lat": 52.3986460862,
+    "stop_lon": -9.1730151236
+  },
+  {
+    "stop_id": "8410B3361001",
+    "stop_name": "Cappahana Cross, stop 336101",
+    "stop_lat": 52.6644172656,
+    "stop_lon": -8.4190893979
+  },
+  {
+    "stop_id": "8410B3361101",
+    "stop_name": "Murroe, stop 336111",
+    "stop_lat": 52.6494543368,
+    "stop_lon": -8.4002666416
+  },
+  {
+    "stop_id": "8410B3361201",
+    "stop_name": "Sheehan's Road, stop 336121",
+    "stop_lat": 52.4492690617,
+    "stop_lon": -9.050854478
+  },
+  {
+    "stop_id": "8410B3361301",
+    "stop_name": "Drumsally Cross, stop 336131",
+    "stop_lat": 52.6175462739,
+    "stop_lon": -8.3699828166
+  },
+  {
+    "stop_id": "8410B3361401",
+    "stop_name": "Cappamore, stop 336141",
+    "stop_lat": 52.614972405,
+    "stop_lon": -8.337991439
+  },
+  {
+    "stop_id": "8410B3361501",
+    "stop_name": "Mansells Cross, stop 336151",
+    "stop_lat": 52.6306807267,
+    "stop_lon": -8.3128377886
+  },
+  {
+    "stop_id": "8410B3361601",
+    "stop_name": "Bilboa Cross, stop 336161",
+    "stop_lat": 52.6190249577,
+    "stop_lon": -8.2873095327
+  },
+  {
+    "stop_id": "8410B3362201",
+    "stop_name": "Rathkeale, stop 336221",
+    "stop_lat": 52.5212211839,
+    "stop_lon": -8.9421859648
+  },
+  {
+    "stop_id": "8410B336331",
+    "stop_name": "Croagh, stop 336331",
+    "stop_lat": 52.5345530478,
+    "stop_lon": -8.8690955605
+  },
+  {
+    "stop_id": "8410B336341",
+    "stop_name": "Adare, stop 336341",
+    "stop_lat": 52.5644648699,
+    "stop_lon": -8.7897714228
+  },
+  {
+    "stop_id": "8410B336351",
+    "stop_name": "Patrickswell, stop 336351",
+    "stop_lat": 52.5985169338,
+    "stop_lon": -8.7065541604
+  },
+  {
+    "stop_id": "8410B336621",
+    "stop_name": "Montpelier, stop 336621",
+    "stop_lat": 52.750240884,
+    "stop_lon": -8.4965663135
+  },
+  {
+    "stop_id": "8410B3367411",
+    "stop_name": "Stop No. 3367411",
+    "stop_lat": 52.7502671023,
+    "stop_lon": -8.49674436
+  },
+  {
+    "stop_id": "8410B3371701",
+    "stop_name": "Grange, stop 337171",
+    "stop_lat": 52.5401732561,
+    "stop_lon": -8.547129681
+  },
+  {
+    "stop_id": "8410B3373901",
+    "stop_name": "Dromkeen, stop 337391",
+    "stop_lat": 52.5833417007,
+    "stop_lon": -8.3883315423
+  },
+  {
+    "stop_id": "8410B3374101",
+    "stop_name": "Pallas, stop 337411",
+    "stop_lat": 52.5678935623,
+    "stop_lon": -8.3376736505
+  },
+  {
+    "stop_id": "8410B3374401",
+    "stop_name": "Oola, stop 337441",
+    "stop_lat": 52.5294691787,
+    "stop_lon": -8.2592091524
+  },
+  {
+    "stop_id": "8410B345671",
+    "stop_name": "Scanlon Park, stop 345671",
+    "stop_lat": 52.7162535022,
+    "stop_lon": -8.5017749989
+  },
+  {
+    "stop_id": "8410B345681",
+    "stop_name": "Scanlon Park, stop 345681",
+    "stop_lat": 52.7162443894,
+    "stop_lon": -8.501804496
+  },
+  {
+    "stop_id": "8410B345981",
+    "stop_name": "Castleconnell, stop 345981",
+    "stop_lat": 52.7127885647,
+    "stop_lon": -8.5007288658
+  },
+  {
+    "stop_id": "8410B345991",
+    "stop_name": "St Flannans Terrace, stop 345991",
+    "stop_lat": 52.7064926447,
+    "stop_lon": -8.5080851642
+  },
+  {
+    "stop_id": "8410B346001",
+    "stop_name": "St Flannans Terrace, stop 346001",
+    "stop_lat": 52.706278148,
+    "stop_lon": -8.5078015208
+  },
+  {
+    "stop_id": "8410B346181",
+    "stop_name": "Jerry's Bar, stop 346181",
+    "stop_lat": 52.7096199292,
+    "stop_lon": -8.4911474926
+  },
+  {
+    "stop_id": "8410B346191",
+    "stop_name": "Stop No. 346191",
+    "stop_lat": 52.6307447721,
+    "stop_lon": -8.3124098606
+  },
+  {
+    "stop_id": "8410B346201",
+    "stop_name": "School Road, stop 346201",
+    "stop_lat": 52.6901840755,
+    "stop_lon": -8.5090939881
+  },
+  {
+    "stop_id": "8410B346211",
+    "stop_name": "Bunkeys Cross, stop 346211",
+    "stop_lat": 52.6944131245,
+    "stop_lon": -8.4687274655
+  },
+  {
+    "stop_id": "8410B346221",
+    "stop_name": "Bunneys Cross, stop 346221",
+    "stop_lat": 52.68553165,
+    "stop_lon": -8.5104006056
+  },
+  {
+    "stop_id": "8410B346231",
+    "stop_name": "Bilboa Cross, stop 346231",
+    "stop_lat": 52.619267918,
+    "stop_lon": -8.2871929792
+  },
+  {
+    "stop_id": "8410B3501101",
+    "stop_name": "New Pallas",
+    "stop_lat": 52.5677226649,
+    "stop_lon": -8.3377165901
+  },
+  {
+    "stop_id": "8410B350251",
+    "stop_name": "Reens Pike, stop 350251",
+    "stop_lat": 52.5074380566,
+    "stop_lon": -8.9899878986
+  },
+  {
+    "stop_id": "8410B3510701",
+    "stop_name": "Elm Close, stop 351071",
+    "stop_lat": 52.6676689037,
+    "stop_lon": -8.5589959193
+  },
+  {
+    "stop_id": "8410B3578101",
+    "stop_name": "O'Rourkes Cross, stop 357811",
+    "stop_lat": 52.4268338012,
+    "stop_lon": -8.6907047335
+  },
+  {
+    "stop_id": "8410B6030201",
+    "stop_name": "Kilfinane, stop 603021",
+    "stop_lat": 52.3581135646,
+    "stop_lon": -8.4720170427
+  },
+  {
+    "stop_id": "8410B6030301",
+    "stop_name": "Kilmallock, stop 603031",
+    "stop_lat": 52.3993876393,
+    "stop_lon": -8.5738501374
+  },
+  {
+    "stop_id": "8410B603041",
+    "stop_name": "Bruff, stop  603041",
+    "stop_lat": 52.4778711154,
+    "stop_lon": -8.5480347124
+  },
+  {
+    "stop_id": "8410B6030501",
+    "stop_name": "Grange, stop 603051",
+    "stop_lat": 52.5402176497,
+    "stop_lon": -8.5472481657
+  },
+  {
+    "stop_id": "8410B603061",
+    "stop_name": "Ballyneety, stop 603061",
+    "stop_lat": 52.5971510987,
+    "stop_lon": -8.5487396389
+  },
+  {
+    "stop_id": "8410B6074601",
+    "stop_name": "St Nessan's Road, stop 607461",
+    "stop_lat": 52.6292007297,
+    "stop_lon": -8.6617585963
+  },
+  {
+    "stop_id": "8410B6075001",
+    "stop_name": "Cresent Centre, stop 607501",
+    "stop_lat": 52.6418060263,
+    "stop_lon": -8.6480447899
+  },
+  {
+    "stop_id": "8410B6076301",
+    "stop_name": "UL Student Centre, stop 607631",
+    "stop_lat": 52.6727809929,
+    "stop_lon": -8.5707570428
+  },
+  {
+    "stop_id": "8410B6076401",
+    "stop_name": "Elm Park Avenue, stop 607641",
+    "stop_lat": 52.670623757,
+    "stop_lon": -8.5632622713
+  },
+  {
+    "stop_id": "8410B6076501",
+    "stop_name": "Oaklawns, stop 607651",
+    "stop_lat": 52.6707139302,
+    "stop_lon": -8.5574970886
+  },
+  {
+    "stop_id": "8410B6076601",
+    "stop_name": "Kilmurry Lodge, stop 607661",
+    "stop_lat": 52.6685882839,
+    "stop_lon": -8.554616574
+  },
+  {
+    "stop_id": "8410B607671",
+    "stop_name": "The Hurlers, stop 607671",
+    "stop_lat": 52.6675499733,
+    "stop_lon": -8.5594379344
+  },
+  {
+    "stop_id": "8410B6076801",
+    "stop_name": "Elsinore, stop 607681",
+    "stop_lat": 52.6673380377,
+    "stop_lon": -8.5643288491
+  },
+  {
+    "stop_id": "8410B6076901",
+    "stop_name": "Golf Links Road, stop 607691",
+    "stop_lat": 52.6664553614,
+    "stop_lon": -8.572212167
+  },
+  {
+    "stop_id": "8410B6077001",
+    "stop_name": "Groody Roundabout, stop 607701",
+    "stop_lat": 52.6657193916,
+    "stop_lon": -8.5775542957
+  },
+  {
+    "stop_id": "8410B607741",
+    "stop_name": "Elm Park Avenue, stop 607741",
+    "stop_lat": 52.6705702534,
+    "stop_lon": -8.5631728706
+  },
+  {
+    "stop_id": "8410B607811",
+    "stop_name": "Avonmore Rd Junc, stop 607811",
+    "stop_lat": 52.6312996449,
+    "stop_lon": -8.6593085197
+  },
+  {
+    "stop_id": "8410B607821",
+    "stop_name": "St Nessan's Church, stop 607821",
+    "stop_lat": 52.6289588118,
+    "stop_lon": -8.6616220034
+  },
+  {
+    "stop_id": "8410B607921",
+    "stop_name": "Ballycummin Rd, stop 607921",
+    "stop_lat": 52.6246775703,
+    "stop_lon": -8.6524147831
+  },
+  {
+    "stop_id": "8410B607941",
+    "stop_name": "Stop No. 607941",
+    "stop_lat": 52.6251623227,
+    "stop_lon": -8.652525383
+  },
+  {
+    "stop_id": "8410B608131",
+    "stop_name": "Saggart Rd, stop 608131",
+    "stop_lat": 52.6237515754,
+    "stop_lon": -8.6557094329
+  },
+  {
+    "stop_id": "8410B6085501",
+    "stop_name": "Holland Road, stop 608551",
+    "stop_lat": 52.6732000695,
+    "stop_lon": -8.5486273653
+  },
+  {
+    "stop_id": "8410B6085601",
+    "stop_name": "Holland Road, stop 608561",
+    "stop_lat": 52.6733838547,
+    "stop_lon": -8.5477572707
+  },
+  {
+    "stop_id": "8410B609091",
+    "stop_name": "The Forts, stop 609091",
+    "stop_lat": 52.6269026793,
+    "stop_lon": -8.6449295435
+  },
+  {
+    "stop_id": "8410B609101",
+    "stop_name": "Rathmore, stop 609101",
+    "stop_lat": 52.6257320588,
+    "stop_lon": -8.6453259058
+  },
+  {
+    "stop_id": "8410B609311",
+    "stop_name": "Castletroy, Stop No 609311",
+    "stop_lat": 52.6666118557,
+    "stop_lon": -8.5544141422
+  },
+  {
+    "stop_id": "8410B6093301",
+    "stop_name": "St Nessans School, stop 609331",
+    "stop_lat": 52.6316995328,
+    "stop_lon": -8.6681484333
+  },
+  {
+    "stop_id": "8410B609351",
+    "stop_name": "National Tech Park, stop 609351",
+    "stop_lat": 52.671141277,
+    "stop_lon": -8.5389465632
+  },
+  {
+    "stop_id": "8410B6093701",
+    "stop_name": "Avonmore Road, stop 609371",
+    "stop_lat": 52.6290759232,
+    "stop_lon": -8.6518450211
+  },
+  {
+    "stop_id": "8410B6093801",
+    "stop_name": "Meadowvale, stop 609381",
+    "stop_lat": 52.6325111032,
+    "stop_lon": -8.6580415066
+  },
+  {
+    "stop_id": "8410B609601",
+    "stop_name": "Rehab Care, stop 609601",
+    "stop_lat": 52.6155579949,
+    "stop_lon": -8.6852391138
+  },
+  {
+    "stop_id": "8410B609611",
+    "stop_name": "Collopys Cross, stop 609611",
+    "stop_lat": 52.594322799,
+    "stop_lon": -8.7194311013
+  },
+  {
+    "stop_id": "8410B609621",
+    "stop_name": "Fanningstown Cross, stop 609621",
+    "stop_lat": 52.543857652,
+    "stop_lon": -8.7246503267
+  },
+  {
+    "stop_id": "8410B609631",
+    "stop_name": "Croom Garda Station, stop 609631",
+    "stop_lat": 52.5220326166,
+    "stop_lon": -8.7189715642
+  },
+  {
+    "stop_id": "8410B609641",
+    "stop_name": "O'Rourke's Cross, stop 609641",
+    "stop_lat": 52.4269401931,
+    "stop_lon": -8.6909563625
+  },
+  {
+    "stop_id": "8410B609651",
+    "stop_name": "Bruree, stop 609651",
+    "stop_lat": 52.4242476791,
+    "stop_lon": -8.6603614802
+  },
+  {
+    "stop_id": "8410B609671",
+    "stop_name": "Rehab Care, stop 609671",
+    "stop_lat": 52.6158284707,
+    "stop_lon": -8.685095666
+  },
+  {
+    "stop_id": "8410B609681",
+    "stop_name": "O'Rourke's Cross, stop 609681",
+    "stop_lat": 52.4279472418,
+    "stop_lon": -8.6908985884
+  },
+  {
+    "stop_id": "8410B609691",
+    "stop_name": "Lantern Lodge, stop 609691",
+    "stop_lat": 52.5739422143,
+    "stop_lon": -8.7728723761
+  },
+  {
+    "stop_id": "8410B609721",
+    "stop_name": "Hazel Hall Estate, Stop No. 609721",
+    "stop_lat": 52.66188572,
+    "stop_lon": -8.5502152356
+  },
+  {
+    "stop_id": "8410B609731",
+    "stop_name": "School House Rd, stop 609731",
+    "stop_lat": 52.6569071023,
+    "stop_lon": -8.5539070553
+  },
+  {
+    "stop_id": "8410B609811",
+    "stop_name": "The Sanctuary, stop 609811",
+    "stop_lat": 52.624623033,
+    "stop_lon": -8.6492531879
+  },
+  {
+    "stop_id": "8410B6312801",
+    "stop_name": "Adare, stop 631281",
+    "stop_lat": 52.5643490191,
+    "stop_lon": -8.7896218431
+  },
+  {
+    "stop_id": "8410B6356601",
+    "stop_name": "Abbeyfeale, stop 635661",
+    "stop_lat": 52.3865488244,
+    "stop_lon": -9.295100275
+  },
+  {
+    "stop_id": "8420B145691",
+    "stop_name": "Ballinahinch, stop 145691",
+    "stop_lat": 52.7681748529,
+    "stop_lon": -8.381586776
+  },
+  {
+    "stop_id": "8420B145701",
+    "stop_name": "An Bonn\u00e1n Bu\u00ed, stop 145701",
+    "stop_lat": 52.7681306772,
+    "stop_lon": -8.3813492959
+  },
+  {
+    "stop_id": "8420B145711",
+    "stop_name": "Kiltyrome, stop 145711",
+    "stop_lat": 52.7946488584,
+    "stop_lon": -8.2910897748
+  },
+  {
+    "stop_id": "8420B145721",
+    "stop_name": "Kiltyrome, stop 145721",
+    "stop_lat": 52.794603338,
+    "stop_lon": -8.2913267082
+  },
+  {
+    "stop_id": "8420B145731",
+    "stop_name": "Silvermines. stop 145731",
+    "stop_lat": 52.7944534199,
+    "stop_lon": -8.2376065067
+  },
+  {
+    "stop_id": "8420B155481",
+    "stop_name": "Kickham Street, stop 155481",
+    "stop_lat": 52.8643230886,
+    "stop_lon": -8.1990188245
+  },
+  {
+    "stop_id": "8420B155531",
+    "stop_name": "Castle street, stop 155531",
+    "stop_lat": 52.954974971,
+    "stop_lon": -7.7973804947
+  },
+  {
+    "stop_id": "8420B2019401",
+    "stop_name": "Nenagh Station, stop 201941",
+    "stop_lat": 52.8607336956,
+    "stop_lon": -8.1956017906
+  },
+  {
+    "stop_id": "8420B331791",
+    "stop_name": "Ballina, stop 331791",
+    "stop_lat": 52.8076857713,
+    "stop_lon": -8.4362467722
+  },
+  {
+    "stop_id": "8420B3327201",
+    "stop_name": "Newtown, stop 332721",
+    "stop_lat": 52.8783871024,
+    "stop_lon": -8.2949184636
+  },
+  {
+    "stop_id": "8420B3338701",
+    "stop_name": "Ardcroney, stop 333871",
+    "stop_lat": 52.9349121248,
+    "stop_lon": -8.1568142782
+  },
+  {
+    "stop_id": "8420B333901",
+    "stop_name": "Ballingarry, stop 333901",
+    "stop_lat": 53.0185415966,
+    "stop_lon": -8.0296588277
+  },
+  {
+    "stop_id": "8420B3339101",
+    "stop_name": "Ballingarry, stop 333911",
+    "stop_lat": 53.0165996179,
+    "stop_lon": -8.0323251805
+  },
+  {
+    "stop_id": "8420B3345201",
+    "stop_name": "Youghalara NS, stop 334521",
+    "stop_lat": 52.8785573487,
+    "stop_lon": -8.298722742
+  },
+  {
+    "stop_id": "8420B3345301",
+    "stop_name": "Portroe, stop 334531",
+    "stop_lat": 52.8849333783,
+    "stop_lon": -8.3438461593
+  },
+  {
+    "stop_id": "8420B3349701",
+    "stop_name": "Lackamore, stop 334971",
+    "stop_lat": 52.6946491751,
+    "stop_lon": -8.3225851467
+  },
+  {
+    "stop_id": "8420B3349801",
+    "stop_name": "Rearcross, stop 334981",
+    "stop_lat": 52.6864553958,
+    "stop_lon": -8.237507996
+  },
+  {
+    "stop_id": "8420B335061",
+    "stop_name": "Shower Cross, stop 335061",
+    "stop_lat": 52.709075191,
+    "stop_lon": -8.4275970626
+  },
+  {
+    "stop_id": "8420B335071",
+    "stop_name": "Newport, stop 335071",
+    "stop_lat": 52.7117112819,
+    "stop_lon": -8.4090201565
+  },
+  {
+    "stop_id": "8420B335081",
+    "stop_name": "Lackamore, stop 335081",
+    "stop_lat": 52.6945964552,
+    "stop_lon": -8.322140955
+  },
+  {
+    "stop_id": "8420B335091",
+    "stop_name": "Rearcross, stop 335091",
+    "stop_lat": 52.6864274236,
+    "stop_lon": -8.2380107262
+  },
+  {
+    "stop_id": "8420B3360801",
+    "stop_name": "Shower Cross, stop 336081",
+    "stop_lat": 52.7092107526,
+    "stop_lon": -8.4273912099
+  },
+  {
+    "stop_id": "8420B3360901",
+    "stop_name": "Newport, stop 336091",
+    "stop_lat": 52.7113843932,
+    "stop_lon": -8.4073743938
+  },
+  {
+    "stop_id": "8420B3375601",
+    "stop_name": "Youghalara NS, stop 337561",
+    "stop_lat": 52.878656174,
+    "stop_lon": -8.2987382771
+  },
+  {
+    "stop_id": "8420B3375701",
+    "stop_name": "Newtown, stop 337571",
+    "stop_lat": 52.878610609,
+    "stop_lon": -8.2953953709
+  },
+  {
+    "stop_id": "8420B337711",
+    "stop_name": "Silvermines, stop 337711",
+    "stop_lat": 52.7944982692,
+    "stop_lon": -8.2376512329
+  },
+  {
+    "stop_id": "8420B3513301",
+    "stop_name": "Lorrha, stop 351331",
+    "stop_lat": 53.0923664587,
+    "stop_lon": -8.1234216112
+  },
+  {
+    "stop_id": "8420B3513401",
+    "stop_name": "Carrigahorig, stop 351341",
+    "stop_lat": 53.0664944889,
+    "stop_lon": -8.1450420375
+  },
+  {
+    "stop_id": "8420B3513501",
+    "stop_name": "Terryglass, stop 351351",
+    "stop_lat": 53.0564757659,
+    "stop_lon": -8.1994108309
+  },
+  {
+    "stop_id": "8420B3513601",
+    "stop_name": "Ballinderry, stop 351361",
+    "stop_lat": 53.0251885726,
+    "stop_lon": -8.220910394
+  },
+  {
+    "stop_id": "8420B3513701",
+    "stop_name": "Coolbawn, stop 351371",
+    "stop_lat": 52.9828065459,
+    "stop_lon": -8.2511624959
+  },
+  {
+    "stop_id": "8420B3513801",
+    "stop_name": "Puckane, stop 351381",
+    "stop_lat": 52.931980665,
+    "stop_lon": -8.2387308139
+  },
+  {
+    "stop_id": "8420B351391",
+    "stop_name": "Puckane, stop 351391",
+    "stop_lat": 52.931980665,
+    "stop_lon": -8.2387308139
+  },
+  {
+    "stop_id": "8420B351401",
+    "stop_name": "Coolbawn, stop 351401",
+    "stop_lat": 52.9828065459,
+    "stop_lon": -8.2511624959
+  },
+  {
+    "stop_id": "8420B351411",
+    "stop_name": "Ballinderry, stop 351411",
+    "stop_lat": 53.0251885726,
+    "stop_lon": -8.220910394
+  },
+  {
+    "stop_id": "8420B351421",
+    "stop_name": "Terryglass, stop 351421",
+    "stop_lat": 53.0564757659,
+    "stop_lon": -8.1994108309
+  },
+  {
+    "stop_id": "8420B351431",
+    "stop_name": "Carrigahorig, stop 351431",
+    "stop_lat": 53.0664944889,
+    "stop_lon": -8.1450420375
+  },
+  {
+    "stop_id": "8420B4501801",
+    "stop_name": "Portroe, stop 450181",
+    "stop_lat": 52.8848061335,
+    "stop_lon": -8.3443354701
+  },
+  {
+    "stop_id": "8420B450201",
+    "stop_name": "Birdhill, stop 450201",
+    "stop_lat": 52.7659052501,
+    "stop_lon": -8.4400373053
+  },
+  {
+    "stop_id": "8420B4502101",
+    "stop_name": "Borrisokane, stop 450211",
+    "stop_lat": 52.9942015961,
+    "stop_lon": -8.1277442844
+  },
+  {
+    "stop_id": "8420B450271",
+    "stop_name": "Borrisokane, stop 450271",
+    "stop_lat": 52.9941657264,
+    "stop_lon": -8.1276697008
+  },
+  {
+    "stop_id": "8420B4552901",
+    "stop_name": "Castle Street, stop 455291",
+    "stop_lat": 52.9551274533,
+    "stop_lon": -7.7972011962
+  },
+  {
+    "stop_id": "8420B4553001",
+    "stop_name": "Kickham Street, stop 455301",
+    "stop_lat": 52.8642870137,
+    "stop_lon": -8.1990929146
+  },
+  {
+    "stop_id": "8420B4553101",
+    "stop_name": "Kilbarron, stop 455311",
+    "stop_lat": 52.9875951589,
+    "stop_lon": -8.2250971839
+  },
+  {
+    "stop_id": "8420B4553201",
+    "stop_name": "Lahorna, stop 455321",
+    "stop_lat": 52.9158955196,
+    "stop_lon": -8.1753165703
+  },
+  {
+    "stop_id": "8420B455341",
+    "stop_name": "Lahorna, stop 455341",
+    "stop_lat": 52.9158771933,
+    "stop_lon": -8.1755543952
+  },
+  {
+    "stop_id": "8420B455351",
+    "stop_name": "Ardcroney, stop 455351",
+    "stop_lat": 52.9356500998,
+    "stop_lon": -8.1560582975
+  },
+  {
+    "stop_id": "8420B455361",
+    "stop_name": "Bushy Park Home, stop 455361",
+    "stop_lat": 52.9884174054,
+    "stop_lon": -8.1325378428
+  },
+  {
+    "stop_id": "8420B455371",
+    "stop_name": "Bushy Park Home, stop 455371",
+    "stop_lat": 52.9883638289,
+    "stop_lon": -8.1322249141
+  },
+  {
+    "stop_id": "8420B455381",
+    "stop_name": "Kilbarron, stop 455381",
+    "stop_lat": 52.9875944534,
+    "stop_lon": -8.225469513
+  },
+  {
+    "stop_id": "8420B6354901",
+    "stop_name": "Ballina Church, stop 635491",
+    "stop_lat": 52.8076490034,
+    "stop_lon": -8.4364688816
+  },
+  {
+    "stop_id": "8430B155341",
+    "stop_name": "Cahir, stop 155341",
+    "stop_lat": 52.3747807251,
+    "stop_lon": -7.9259811301
+  },
+  {
+    "stop_id": "8430B1553901",
+    "stop_name": "Cahir, stop 155391",
+    "stop_lat": 52.3747179257,
+    "stop_lon": -7.9261721565
+  },
+  {
+    "stop_id": "8430B1554001",
+    "stop_name": "Cashel, stop 155401",
+    "stop_lat": 52.5172861935,
+    "stop_lon": -7.8868153015
+  },
+  {
+    "stop_id": "8430B2501001",
+    "stop_name": "Ardfinnan Church, stop 250101",
+    "stop_lat": 52.309380497,
+    "stop_lon": -7.8815830869
+  },
+  {
+    "stop_id": "8430B250131",
+    "stop_name": "Ardfinnan, stop 250131",
+    "stop_lat": 52.3092221656,
+    "stop_lon": -7.8850883454
+  },
+  {
+    "stop_id": "8430B2552301",
+    "stop_name": "Cashel, stop 255231",
+    "stop_lat": 52.5170887492,
+    "stop_lon": -7.8871252164
+  },
+  {
+    "stop_id": "8430B2560701",
+    "stop_name": "Ballyporeen, stop 256071",
+    "stop_lat": 52.2701272517,
+    "stop_lon": -8.0992211545
+  },
+  {
+    "stop_id": "8430B256081",
+    "stop_name": "Ballyporeen, stop 256081",
+    "stop_lat": 52.2700191672,
+    "stop_lon": -8.0994846428
+  },
+  {
+    "stop_id": "8430B331821",
+    "stop_name": "Monard, stop 331821",
+    "stop_lat": 52.5102015065,
+    "stop_lon": -8.2223703587
+  },
+  {
+    "stop_id": "8430B331831",
+    "stop_name": "Limerick Junction, stop 331831",
+    "stop_lat": 52.4986449656,
+    "stop_lon": -8.2062001146
+  },
+  {
+    "stop_id": "8430B331841",
+    "stop_name": "Limerick Road, stop 331841",
+    "stop_lat": 52.4760503265,
+    "stop_lon": -8.1712522526
+  },
+  {
+    "stop_id": "8430B331851",
+    "stop_name": "Abbey Street, stop 331851",
+    "stop_lat": 52.4726851023,
+    "stop_lon": -8.1610242952
+  },
+  {
+    "stop_id": "8430B331861",
+    "stop_name": "Bansha, stop 331861",
+    "stop_lat": 52.4482750256,
+    "stop_lon": -8.0645653275
+  },
+  {
+    "stop_id": "8430B331871",
+    "stop_name": "S Tipperary Hospital, stop 331871",
+    "stop_lat": 52.3538371458,
+    "stop_lon": -7.7134883436
+  },
+  {
+    "stop_id": "8430B331881",
+    "stop_name": "S Tipperary Hospital, stop 331881",
+    "stop_lat": 52.353809148,
+    "stop_lon": -7.7130628227
+  },
+  {
+    "stop_id": "8430B331901",
+    "stop_name": "The Regal Centre, stop 331901",
+    "stop_lat": 52.3550000993,
+    "stop_lon": -7.6933695317
+  },
+  {
+    "stop_id": "8430B331911",
+    "stop_name": "O'Rahilly Avenue, stop 331911",
+    "stop_lat": 52.3550431341,
+    "stop_lon": -7.6926352442
+  },
+  {
+    "stop_id": "8430B331921",
+    "stop_name": "Kilsheelan, stop 331921",
+    "stop_lat": 52.3611986656,
+    "stop_lon": -7.5809810758
+  },
+  {
+    "stop_id": "8430B332421",
+    "stop_name": "Queen Street, stop 332421",
+    "stop_lat": 52.3551608608,
+    "stop_lon": -7.7071380989
+  },
+  {
+    "stop_id": "8430B332431",
+    "stop_name": "Queen Street, stop 332431",
+    "stop_lat": 52.3551697763,
+    "stop_lon": -7.7071086803
+  },
+  {
+    "stop_id": "8430B334781",
+    "stop_name": "Davitt Street, stop 334781",
+    "stop_lat": 52.47482178,
+    "stop_lon": -8.1692750594
+  },
+  {
+    "stop_id": "8430B3348301",
+    "stop_name": "Cappawhite, stop 334831",
+    "stop_lat": 52.5821247019,
+    "stop_lon": -8.1678584226
+  },
+  {
+    "stop_id": "8430B3348501",
+    "stop_name": "Annacarthy, stop 334851",
+    "stop_lat": 52.5655260975,
+    "stop_lon": -8.1126893381
+  },
+  {
+    "stop_id": "8430B3348601",
+    "stop_name": "Dundrum, stop 334861",
+    "stop_lat": 52.5587384597,
+    "stop_lon": -8.0493603339
+  },
+  {
+    "stop_id": "8430B335141",
+    "stop_name": "Cappawhite, stop 335141",
+    "stop_lat": 52.582034905,
+    "stop_lon": -8.1677990577
+  },
+  {
+    "stop_id": "8430B335151",
+    "stop_name": "Annacarthy, stop 335151",
+    "stop_lat": 52.565561811,
+    "stop_lon": -8.1129401785
+  },
+  {
+    "stop_id": "8430B335161",
+    "stop_name": "Dundrum, stop 335161",
+    "stop_lat": 52.5587204527,
+    "stop_lon": -8.0494340519
+  },
+  {
+    "stop_id": "8430B3372401",
+    "stop_name": "Limerick Junction, stop 337241",
+    "stop_lat": 52.4990757551,
+    "stop_lon": -8.2065703222
+  },
+  {
+    "stop_id": "8430B3372501",
+    "stop_name": "Monard, stop 337251",
+    "stop_lat": 52.5102108819,
+    "stop_lon": -8.2221641662
+  },
+  {
+    "stop_id": "8430B345651",
+    "stop_name": "Annerville, stop 345651",
+    "stop_lat": 52.360298448,
+    "stop_lon": -7.6465721443
+  },
+  {
+    "stop_id": "8430B345661",
+    "stop_name": "Annerville, stop 345661",
+    "stop_lat": 52.360114382,
+    "stop_lon": -7.6481445323
+  },
+  {
+    "stop_id": "8430B351221",
+    "stop_name": "Clogheen, stop 351221",
+    "stop_lat": 52.2753013991,
+    "stop_lon": -7.9987251559
+  },
+  {
+    "stop_id": "8430B3512401",
+    "stop_name": "Clogheen, stop 351241",
+    "stop_lat": 52.2751755616,
+    "stop_lon": -7.9989596129
+  },
+  {
+    "stop_id": "8430B3554801",
+    "stop_name": "Clonmel Station, stop 355481",
+    "stop_lat": 52.3609036879,
+    "stop_lon": -7.6996564946
+  },
+  {
+    "stop_id": "8430B3580601",
+    "stop_name": "Kilsheelan, stop 358061",
+    "stop_lat": 52.3611945999,
+    "stop_lon": -7.5798359279
+  },
+  {
+    "stop_id": "8430B6312001",
+    "stop_name": "Bansha, stop 631201",
+    "stop_lat": 52.4478799798,
+    "stop_lon": -8.0637556677
+  },
+  {
+    "stop_id": "8430B6354701",
+    "stop_name": "Abbey Street, stop 635471",
+    "stop_lat": 52.4727659762,
+    "stop_lon": -8.1610393093
+  },
+  {
+    "stop_id": "8470B3012601",
+    "stop_name": "Lough Cutra, stop 301261",
+    "stop_lat": 53.0146439747,
+    "stop_lon": -8.8102463721
+  },
+  {
+    "stop_id": "8470B346171",
+    "stop_name": "Lough Cutra, stop 346171",
+    "stop_lat": 53.0145362378,
+    "stop_lon": -8.8102294511
+  },
+  {
+    "stop_id": "8470B5532401",
+    "stop_name": "Kiltartan Cross, stop 553241",
+    "stop_lat": 53.0980506455,
+    "stop_lon": -8.8152768079
+  },
+  {
+    "stop_id": "8470B6353501",
+    "stop_name": "Market Square Gort, stop 635351",
+    "stop_lat": 53.0671950703,
+    "stop_lon": -8.8193792401
+  },
+  {
+    "stop_id": "8470B635461",
+    "stop_name": "Gort, stop 635461",
+    "stop_lat": 53.0671155278,
+    "stop_lon": -8.8191837559
+  }
+]

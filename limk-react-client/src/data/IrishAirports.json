@@ -1,0 +1,16 @@
+[
+  {
+    "gmt": null,
+    "iata_code": "SNN",
+    "city_iata_code": "SNN",
+    "icao_code": "EINN",
+    "country_iso2": "IE",
+    "geoname_id": "6296700",
+    "latitude": "52.69248",
+    "longitude": "-8.92039",
+    "airport_name": "Shannon",
+    "country_name": "Ireland",
+    "phone_number": null,
+    "timezone": "Europe/Dublin"
+  }
+]
