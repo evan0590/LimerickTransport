@@ -27,7 +27,7 @@ const BusGEOJson = busData.map((stop) => ({
 }));
 
 const RailGeoJson = railData.map((station) => ({
-  description: station.StationDesc,
+  description: station.StationDesc + " Rail Station",
   type: "Rail",
   icon: {
     url: "http://maps.google.com/mapfiles/ms/icons/red-dot.png",
