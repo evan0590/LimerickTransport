@@ -8,7 +8,7 @@ def create_app():
 
     app.config.from_pyfile('settings.py')
 
-    @app.route('/location_info', methods=['POST', 'GET'])
+    @app.route('/api/location_info', methods=['POST', 'GET'])
     def location_info():  # pylint: disable=unused-variable
         location_number = request.args.get('locationNumber')
         location_id = request.args.get('locationId')

@@ -71,7 +71,7 @@ const LocationInformation = (props) => {
       const loadData = () => {
         try {
           axios
-            .get(`/location_info`, {
+            .get(`/api/location_info`, {
               params: {
                 locationNumber: props.number,
                 locationId: props.id,
