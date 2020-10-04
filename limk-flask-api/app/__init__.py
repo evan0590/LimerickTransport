@@ -17,7 +17,7 @@ def create_app():
         nta_api = app.config.get("NTA_API_KEY")
         if location_type == "Bus":
             result = rtpi_data(location_number, nta_api)
-            if len(result) is 0:
+            if len(result) == 0:
                 result = gtfs_data(location_id)
                 return result
             else:
