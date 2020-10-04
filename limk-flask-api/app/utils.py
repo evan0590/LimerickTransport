@@ -44,7 +44,12 @@ def rtpi_data(stop_number, nta_api):
         # return empty dictionary to trigger call to GTFS dataset.
         results_dict = {}
         return results_dict
+    elif full_dict['statusCode'] == 401:
+        print("rtpi is now closed")
+        results_dict = {}
+        return results_dict
     elif full_dict['results'] == []:
+        print("hello, im r", r)
         # no information was returned from RTPI API
         # return empty array to trigger call to GTFS dataset.
         return full_dict['results']
