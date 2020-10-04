@@ -1,4 +1,5 @@
 # app/__init__.py
+import time
 from flask import Flask, request
 from .utils import rtpi_data, rail_data, gtfs_data, bike_data, airport_data
 
@@ -7,6 +8,10 @@ def create_app():
     app = Flask(__name__)
 
     app.config.from_pyfile('settings.py')
+
+    @app.route('/api/time')
+    def get_current_time():
+        return {'time': time.time()}
 
     @app.route('/api/location_info', methods=['POST', 'GET'])
     def location_info():  # pylint: disable=unused-variable
