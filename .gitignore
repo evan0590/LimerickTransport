@@ -45,6 +45,7 @@
 
 # React misc
 /limk-react-client/.DS_Store
+/limk-react-client/.env
 /limk-react-client/.env.local
 /limk-react-client/.env.development.local
 /limk-react-client/.env.test.local
