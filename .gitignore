@@ -60,5 +60,6 @@
 /limk-flask-api/app/__pycache__
 
 # Python scraper txt and env files
+/limk-data/__pycache__
 /limk-data/*.txt
 /limk-data/.env

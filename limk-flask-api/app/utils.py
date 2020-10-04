@@ -217,7 +217,7 @@ def bike_data(station_id):
     return {'results': parsed}
 
 
-def airport_data(arrival_airport, arrival_flag):
+def airport_data(airport, arrival_flag):
     """Returns to the frontend the airport departure information for the requested airport.
     Information is taken from a csv file that is updated every 20 mins.
     Pandas dataframes used to parse the required data, which is returned to frontend as JSON.
@@ -225,7 +225,8 @@ def airport_data(arrival_airport, arrival_flag):
     Receives from frontend the users chosen airport.
     Is currently hardcoded to Shannon Airport only."""
     if arrival_flag == "false":
-        df = pd.read_csv("../limk-data/ShannonDepartureSchedule.txt")
+        df = pd.read_csv("../limk-data/AirportsDepartureSchedule.txt")
+        df = df.loc[df['departure_airport'] == airport].copy()
         df.rename(columns={'departure_scheduled': 'idA',
                            'flight_iata': 'idB',
                            'arrival_airport': 'targetA',
@@ -236,7 +237,8 @@ def airport_data(arrival_airport, arrival_flag):
         parsed = json.loads(result)
         return {'results': parsed}
     else:
-        df = pd.read_csv("../limk-data/ShannonArrivalSchedule.txt")
+        df = pd.read_csv("../limk-data/AirportsArrivalSchedule.txt")
+        df = df.loc[df['arrival_airport'] == airport].copy()
         df.rename(columns={'departure_scheduled': 'idA',
                            'flight_iata': 'idB',
                            'arrival_airport': 'targetA',

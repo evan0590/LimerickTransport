@@ -2,34 +2,15 @@ import pandas as pd
 import requests
 import json
 from decouple import config
+from utils import inner_json_to_pandas, prepend_identifier, parse_time_format
 
 
-def inner_json_to_pandas(dataframe, string):
-    target_df = pd.read_json((dataframe[string]).to_json(), orient='index')
-    target_df = target_df.sort_index(axis=0)
-    return target_df
-
-
-def prepend_identifier(dataframe, string):
-    return [string + row for row in dataframe]
-
-
-def parse_time_format(s):
-    """Parse all occurences of - to / for correct time formatting."""
-    s = s.replace("-", "/")
-    s = s.replace("T", " ")
-    sep = '+'
-    rest = s.split(sep, 1)[0]
-    return rest
-
-
-def airport_schedule_dataframe(flight_type_iata, flight_type_schedule):
-    """Expects either "dep_iata" with "departure_scheduled"
-    or "arr_iata" with "arrival_scheduled"."""
-    # departure information for shannon
+# expects either "dep_iata" with "departure_scheduled"
+# or "arr_iata" with "arrival_scheduled"
+def airport_schedule_dataframe(flight_type_iata, flight_type_schedule, airport_iata):
     AVI_API_KEY = config('AVI_API_KEY')
     payload = {'access_key': AVI_API_KEY,
-               flight_type_iata: 'SNN'}
+               flight_type_iata: airport_iata}
     r = requests.get('http://api.aviationstack.com/v1/flights', params=payload)
     # parse to json dtype
     full_dict = r.json()
@@ -63,14 +44,23 @@ def airport_schedule_dataframe(flight_type_iata, flight_type_schedule):
     return df
 
 
-departure_schedule_df = airport_schedule_dataframe(
-    "dep_iata", "departure_scheduled")
-arrival_schedule_df = airport_schedule_dataframe(
-    "arr_iata", "arrival_scheduled")
+def airports_schedule_csv(airport_list):
+    departure_schedule_df_list = []
+    arrival_schedule_df_list = []
+    for i in airport_list:
+        departure_schedule_df = airport_schedule_dataframe(
+            "dep_iata", "departure_scheduled", i)
+        departure_schedule_df_list.append(departure_schedule_df)
+        arrival_schedule_df = airport_schedule_dataframe(
+            "arr_iata", "arrival_scheduled", i)
+        arrival_schedule_df_list.append(arrival_schedule_df)
+    full_departure_df = pd.concat(departure_schedule_df_list)
+    full_arrival_df = pd.concat(arrival_schedule_df_list)
+    full_departure_df.to_csv(
+        '../limk-data/AirportsDepartureSchedule.txt', index=False)
+    full_arrival_df.to_csv(
+        '../limk-data/AirportsArrivalSchedule.txt', index=False)
 
 
-# Write the cleaned dataframes to csv files
-departure_schedule_df.to_csv(
-    'ShannonDepartureSchedule.txt', index=False)
-arrival_schedule_df.to_csv(
-    'ShannonArrivalSchedule.txt', index=False)
+# write to a csv the schedule information for the chosen airports
+airports_schedule_csv(["SNN", "ORK", "KIR"])
