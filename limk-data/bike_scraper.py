@@ -12,7 +12,8 @@ def bike_station_dataframe():
     full_dict = r.json()
     bike_json = full_dict['data']
     bike_df = pd.DataFrame(bike_json)
-    bike_df.to_csv('../limk-data/LimerickBikeStations.txt', index=False)
+    bike_df.to_csv('/home/ubuntu/LimerickTransport/limk-data/LimerickBikeStations.txt', index=False)
+#    bike_df.to_csv('../limk-data/LimerickBikeStations.txt', index=False)
 
 
 bike_station_dataframe()
