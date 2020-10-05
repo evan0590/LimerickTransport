@@ -5,6 +5,8 @@
 
 # early express version of api- not currently in use.
 /limk-api
+/limk-react-client
+/limk-flask-app
 /notes
 
 # GTFS dataset
@@ -25,6 +27,7 @@
 
 # React misc
 /react-flask-app/.DS_Store
+/react-flask-app/.env
 /react-flask-app/.env.local
 /react-flask-app/.env.development.local
 /react-flask-app/.env.test.local
@@ -35,8 +38,9 @@
 /react-flask-app/yarn-error.log*
 
 # React flask api
-/react-flask-app/api/venv
+/react-flask-app/venv
 /react-flask-app/api/__pycache__
+/react-flask-app/api/.env
 
 # React dependencies
 /limk-react-client/node_modules
