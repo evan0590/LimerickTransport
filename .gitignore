@@ -10,27 +10,33 @@
 # GTFS dataset
 /google_transit_combined
 
+
+
 # React dependencies
-/limk-client/node_modules
-/limk-client/.pnp
-/limk-client.pnp.js
+/react-flask-app/node_modules
+/react-flask-app/.pnp
+/react-flask-app.pnp.js
 
 # React testing
-/limk-client/coverage
+/react-flask-app/coverage
 
 # React production
-/limk-client/build
+/react-flask-app/build
 
 # React misc
-/limk-client/.DS_Store
-/limk-client/.env.local
-/limk-client/.env.development.local
-/limk-client/.env.test.local
-/limk-client/.env.production.local
+/react-flask-app/.DS_Store
+/react-flask-app/.env.local
+/react-flask-app/.env.development.local
+/react-flask-app/.env.test.local
+/react-flask-app/.env.production.local
 
-/limk-client/npm-debug.log*
-/limk-client/yarn-debug.log*
-/limk-client/yarn-error.log*
+/react-flask-app/npm-debug.log*
+/react-flask-app/yarn-debug.log*
+/react-flask-app/yarn-error.log*
+
+# React flask api
+/react-flask-app/api/venv
+/react-flask-app/api/__pycache__
 
 # React dependencies
 /limk-react-client/node_modules
