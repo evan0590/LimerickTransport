@@ -56,10 +56,16 @@ def airports_schedule_csv(airport_list):
         arrival_schedule_df_list.append(arrival_schedule_df)
     full_departure_df = pd.concat(departure_schedule_df_list)
     full_arrival_df = pd.concat(arrival_schedule_df_list)
+    # local machine settings
+    # full_departure_df.to_csv(
+    #     '../react-flask-app/api/csv_data/AirportsDepartureSchedule.txt', index=False)
+    # full_arrival_df.to_csv(
+    #     '../react-flask-app/api/csv_data/AirportsArrivalSchedule.txt', index=False)
+    # server settings
     full_departure_df.to_csv(
-        '../react-flask-app/api/csv_data/AirportsDepartureSchedule.txt', index=False)
+        '/home/ubuntu/LimerickTransport/react-flask-app/api/csv_data/AirportsDepartureSchedule.txt', index=False)
     full_arrival_df.to_csv(
-        '../react-flask-app/api/csv_data/AirportsArrivalSchedule.txt', index=False)
+        '/home/ubuntu/LimerickTransport/react-flask-app/api/csv_data/AirportsArrivalSchedule.txt', index=False)
 
 
 # write to a csv the schedule information for the chosen airports
