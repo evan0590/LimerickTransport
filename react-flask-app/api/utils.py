@@ -193,7 +193,9 @@ def airport_data(airport, arrival_flag):
     Receives from frontend the users chosen airport.
     Is currently hardcoded to Shannon Airport only."""
     if arrival_flag == "false":
-        df = pd.read_csv("csv_data/AirportsDepartureSchedule.txt")
+        df = pd.read_csv(
+            "/home/ubuntu/LimerickTransport/react-flask-app/api/csv_data/AirportsDepartureSchedule.txt")
+        # df = pd.read_csv("csv_data/AirportsDepartureSchedule.txt")
         df = df.loc[df['departure_airport'] == airport].copy()
         df.rename(columns={'departure_scheduled': 'idA',
                            'flight_iata': 'idB',
@@ -205,7 +207,9 @@ def airport_data(airport, arrival_flag):
         parsed = json.loads(result)
         return {'results': parsed}
     else:
-        df = pd.read_csv("csv_data/AirportsArrivalSchedule.txt")
+        df = pd.read_csv(
+            "/home/ubuntu/LimerickTransport/react-flask-app/api/csv_data/AirportsArrivalSchedule.txt")
+        # df = pd.read_csv("csv_data/AirportsDepartureSchedule.txt")
         df = df.loc[df['arrival_airport'] == airport].copy()
         df.rename(columns={'departure_scheduled': 'idA',
                            'flight_iata': 'idB',
