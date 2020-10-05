@@ -23,13 +23,14 @@ def location_info():  # pylint: disable=unused-variable
     arrival_flag = request.args.get('airportArrivalFlag')
     nta_api = app.config.get("NTA_API_KEY")
     if location_type == "Bus":
-        result = rtpi_data(location_number, nta_api)
-        if len(result) == 0:
-            result = gtfs_data(location_id)
-            return result
-        else:
-
-            return result
+        result = gtfs_data(location_id)
+        return result
+        # result = rtpi_data(location_number, nta_api)
+        # if len(result) == 0:
+        #     result = gtfs_data(location_id)
+        #     return result
+        # else:
+        #     return result
     elif location_type == "Rail":
         result = rail_data(location_id)
         return result
