@@ -10,13 +10,13 @@ warnings.filterwarnings('ignore')
 
 
 # get the GTFS timetable information
-##timetable_df = pd.read_csv("google_transit_combined/stop_times.txt")
+timetable_df = pd.read_csv("google_transit_combined/parsed_stop_times.txt")
 # get the GTFS trips information
-##trips_df = pd.read_csv("google_transit_combined/trips.txt")
+trips_df = pd.read_csv("google_transit_combined/trips.txt")
 # get the GTFS route information
-##route_df = pd.read_csv("google_transit_combined/routes.txt")
+route_df = pd.read_csv("google_transit_combined/routes.txt")
 # get the GTFS calendar information
-##calendar_df = pd.read_csv("google_transit_combined/calendar.txt")
+calendar_df = pd.read_csv("google_transit_combined/calendar.txt")
 # placeholder object to return to the frontend in the event that no data exists
 placeholder = {'results': [
     {
