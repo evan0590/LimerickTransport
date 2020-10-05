@@ -44,36 +44,3 @@
 
 # Scraper scripts
 /scraper-scripts/.env
-
-# React dependencies
-/limk-react-client/node_modules
-/limk-react-client/.pnp
-/limk-react-client.pnp.js
-
-# React testing
-/limk-react-client/coverage
-
-# React production
-/limk-react-client/build
-
-# React misc
-/limk-react-client/.DS_Store
-/limk-react-client/.env
-/limk-react-client/.env.local
-/limk-react-client/.env.development.local
-/limk-react-client/.env.test.local
-/limk-react-client/.env.production.local
-
-/limk-react-client/npm-debug.log*
-/limk-react-client/yarn-debug.log*
-/limk-react-client/yarn-error.log*
-
-# Flask
-/limk-flask-api/__pycache__
-/limk-flask-api/.env
-/limk-flask-api/app/__pycache__
-
-# Python scraper txt and env files
-/limk-data/__pycache__
-/limk-data/*.txt
-/limk-data/.env
