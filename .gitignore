@@ -6,7 +6,7 @@
 # early express version of api- not currently in use.
 /limk-api
 /limk-react-client
-/limk-flask-app
+# /limk-flask-api
 /notes
 
 # GTFS dataset
