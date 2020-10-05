@@ -10,7 +10,7 @@ warnings.filterwarnings('ignore')
 
 
 # get the GTFS timetable information
-timetable_df = pd.read_csv("google_transit_combined/stop_times.txt")
+timetable_df = pd.read_csv("google_transit_combined/parsed_stop_times.txt")
 # get the GTFS trips information
 trips_df = pd.read_csv("google_transit_combined/trips.txt")
 # get the GTFS route information
@@ -27,45 +27,6 @@ placeholder = {'results': [
         "targetC": "",
     },
 ]}
-
-
-def rtpi_data(stop_number, nta_api):
-    """Returns to the frontend the real time passenger information data for the requested stop.
-    Pandas dataframes used to parse the required data, which is returned to frontend as JSON.
-
-    Receives from frontend the users chosen station."""
-    url = "https://api.nationaltransport.ie/rtpi/RealTimeBusInformation?stopid=" + \
-        stop_number + "&operator=be"
-    headers = {'Ocp-Apim-Subscription-Key': nta_api}
-    r = requests.get(url, headers=headers)
-    full_dict = r.json()
-    if next(iter(full_dict.values())) == 429:
-        # an overuse block is placed on RTPI API
-        # return empty dictionary to trigger call to GTFS dataset.
-        results_dict = {}
-        return results_dict
-    elif full_dict['statusCode'] == 401:
-        print("rtpi is now closed")
-        results_dict = {}
-        return results_dict
-    elif full_dict['results'] == []:
-        print("hello, im r", r)
-        # no information was returned from RTPI API
-        # return empty array to trigger call to GTFS dataset.
-        return full_dict['results']
-    else:
-        # information returned, parse to pandas df and return as JSON.
-        results_dict = full_dict['results']
-        results_df = pd.DataFrame(results_dict)
-        df = results_df[['arrivaldatetime',
-                         'route', 'destination', 'duetime']].copy()
-        df.rename(columns={'arrivaldatetime': 'idA',
-                           'route': 'idB',
-                           'destination': 'targetA', 'duetime': 'targetB'},
-                  inplace=True)
-        result = df.to_json(orient="records")
-        parsed = json.loads(result)
-        return {'results': parsed}
 
 
 def parse_midnight(s):
