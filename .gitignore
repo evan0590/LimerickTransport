@@ -3,16 +3,13 @@
 .vscode
 .DS_Store
 
-# early express version of api- not currently in use.
+# local directories not currently in use.
 /limk-api
 /limk-react-client
 /limk-flask-api
+/limk-data
 /notes
-
-# GTFS dataset
 /google_transit_combined
-
-
 
 # React dependencies
 /react-flask-app/node_modules
@@ -38,9 +35,15 @@
 /react-flask-app/yarn-error.log*
 
 # React flask api
+/react-flask-app/api/venv
 /react-flask-app/venv
 /react-flask-app/api/__pycache__
 /react-flask-app/api/.env
+/react-flask-app/api/google_transit_combined
+/react-flask-app/api/csv_data
+
+# Scraper scripts
+/scraper-scripts/.env
 
 # React dependencies
 /limk-react-client/node_modules
