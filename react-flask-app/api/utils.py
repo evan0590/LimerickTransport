@@ -204,7 +204,9 @@ def bike_data(station_id):
     Pandas dataframes used to parse the required data, which is returned to frontend as JSON.
 
     Receives from frontend the users chosen station."""
-    bike_df = pd.read_csv("csv_data/LimerickBikeStations.txt")
+    bike_df = pd.read_csv(
+        "/home/ubuntu/LimerickTransport/react-flask-app/api/csv_data/LimerickBikeStations.txt")
+    # bike_df = pd.read_csv("csv_data/LimerickBikeStations.txt")
     bike_df['dateStatus'] = bike_df['dateStatus'].apply(parse_time_format)
     df = bike_df.loc[bike_df['stationId'] == int(station_id)]
     df.stationId = df.stationId.astype("str")
