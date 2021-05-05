@@ -12,9 +12,9 @@ warnings.filterwarnings('ignore')
 # get the GTFS timetable information
 timetable_df = pd.read_csv("google_transit_combined/parsed_stop_times.txt")
 # get the GTFS trips information
-trips_df = pd.read_csv("google_transit_combined/old_trips.txt")
+trips_df = pd.read_csv("google_transit_combined/trips.txt")
 # get the GTFS route information
-route_df = pd.read_csv("google_transit_combined/old_routes.txt")
+route_df = pd.read_csv("google_transit_combined/routes.txt")
 # get the GTFS calendar information
 calendar_df = pd.read_csv("google_transit_combined/calendar.txt")
 # placeholder object to return to the frontend in the event that no data exists
@@ -151,7 +151,7 @@ def rail_data(station_code):
 
 
 def parse_time_format(s):
-    """Parse all occurences of - to / for correct time formatting."""
+    """Parse all occurrences of - to / for correct time formatting."""
     s = s.replace("-", "/")
     s = s.replace("T", " ")
     sep = '+'
@@ -165,9 +165,9 @@ def bike_data(station_id):
     Pandas dataframes used to parse the required data, which is returned to frontend as JSON.
 
     Receives from frontend the users chosen station."""
-    bike_df = pd.read_csv(
-        "/home/ubuntu/LimerickTransport/react-flask-app/api/csv_data/LimerickBikeStations.txt")
-    # bike_df = pd.read_csv("csv_data/LimerickBikeStations.txt")
+    # bike_df = pd.read_csv(
+    #     "/home/ubuntu/LimerickTransport/react-flask-app/api/csv_data/LimerickBikeStations.txt")
+    bike_df = pd.read_csv("csv_data/LimerickBikeStations.txt")
     bike_df['dateStatus'] = bike_df['dateStatus'].apply(parse_time_format)
     df = bike_df.loc[bike_df['stationId'] == int(station_id)]
     df.stationId = df.stationId.astype("str")
@@ -193,9 +193,9 @@ def airport_data(airport, arrival_flag):
     Receives from frontend the users chosen airport.
     Is currently hardcoded to Shannon Airport only."""
     if arrival_flag == "false":
-        df = pd.read_csv(
-            "/home/ubuntu/LimerickTransport/react-flask-app/api/csv_data/AirportsDepartureSchedule.txt")
-        # df = pd.read_csv("csv_data/AirportsDepartureSchedule.txt")
+        # df = pd.read_csv(
+        #     "/home/ubuntu/LimerickTransport/react-flask-app/api/csv_data/AirportsDepartureSchedule.txt")
+        df = pd.read_csv("csv_data/AirportsDepartureSchedule.txt")
         df = df.loc[df['departure_airport'] == airport].copy()
         df.rename(columns={'departure_scheduled': 'idA',
                            'flight_iata': 'idB',
@@ -207,9 +207,9 @@ def airport_data(airport, arrival_flag):
         parsed = json.loads(result)
         return {'results': parsed}
     else:
-        df = pd.read_csv(
-            "/home/ubuntu/LimerickTransport/react-flask-app/api/csv_data/AirportsArrivalSchedule.txt")
-        # df = pd.read_csv("csv_data/AirportsDepartureSchedule.txt")
+        # df = pd.read_csv(
+        #     "/home/ubuntu/LimerickTransport/react-flask-app/api/csv_data/AirportsArrivalSchedule.txt")
+        df = pd.read_csv("csv_data/AirportsArrivalSchedule.txt")
         df = df.loc[df['arrival_airport'] == airport].copy()
         df.rename(columns={'departure_scheduled': 'idA',
                            'flight_iata': 'idB',

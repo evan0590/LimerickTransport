@@ -1,7 +1,9 @@
 
 .ipynb_checkpoints
 .vscode
+.idea
 .DS_Store
+README.ipynb
 
 # local directories not currently in use.
 /limk-api
@@ -12,35 +14,36 @@
 /google_transit_combined
 
 # React dependencies
-/react-flask-app/node_modules
-/react-flask-app/.pnp
-/react-flask-app.pnp.js
+/react-flask-app/frontend/node_modules
+/react-flask-app/frontend/.pnp
+/react-flask-app/frontend/.pnp.js
 
 # React testing
-/react-flask-app/coverage
+/react-flask-app/frontend/coverage
 
 # React production
-/react-flask-app/build
+/react-flask-appfrontend//build
 
 # React misc
-/react-flask-app/.DS_Store
-/react-flask-app/.env
-/react-flask-app/.env.local
-/react-flask-app/.env.development.local
-/react-flask-app/.env.test.local
-/react-flask-app/.env.production.local
+/react-flask-app/frontend/.DS_Store
+/react-flask-app/frontend/.env
+/react-flask-app/frontend/.env.local
+/react-flask-app/frontend/.env.development.local
+/react-flask-app/frontend/.env.test.local
+/react-flask-app/frontend/.env.production.local
 
-/react-flask-app/npm-debug.log*
-/react-flask-app/yarn-debug.log*
-/react-flask-app/yarn-error.log*
+/react-flask-app/frontend/npm-debug.log*
+/react-flask-app/frontend/yarn-debug.log*
+/react-flask-app/frontend/yarn-error.log*
 
 # React flask api
-/react-flask-app/api/venv
-/react-flask-app/venv
-/react-flask-app/api/__pycache__
-/react-flask-app/api/.env
-/react-flask-app/api/google_transit_combined
-/react-flask-app/api/csv_data
+/react-flask-app/backend/api/venv
+/react-flask-app/backend/venv
+/react-flask-app/backend/api/__pycache__
+/react-flask-app/backend/api/.env
+/react-flask-app/backend/api/google_transit_combined
+/react-flask-app/backend/api/csv_data
+/react-flask-app/backend/api/.pytest_cache
 
 # Scraper scripts
 /scraper-scripts/.env
