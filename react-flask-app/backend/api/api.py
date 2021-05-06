@@ -12,6 +12,7 @@ def create_app(test_config=None):
 
     @app.route('/api/location_info', methods=['POST', 'GET'])
     def location_info():  # pylint: disable=unused-variable
+        """Serve JSON response from each of the transport types."""
         location_id = request.args.get('locationId')
         location_type = request.args.get('locationType')
         arrival_flag = request.args.get('airportArrivalFlag')

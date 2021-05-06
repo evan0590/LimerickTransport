@@ -1,12 +1,11 @@
 import calendar
-import pandas as pd
-import warnings
 import json
-from datetime import date, datetime
 import requests
 import xmltodict
-
-warnings.filterwarnings('ignore')
+import psycopg2
+import pandas as pd
+from decouple import config
+from datetime import date, datetime
 
 
 # get the GTFS timetable information
@@ -67,10 +66,10 @@ def gtfs_data(stop_id):
     merged_df = stop_id_timetable_df.merge(
         merged_route_and_trips_df, on="trip_id", how='inner')
     sub_final_df = merged_df.drop_duplicates(
-        subset='arrival_time', keep="first")
+        subset='arrival_time', keep="first").copy()
     sub_final_df['arrival_time'] = sub_final_df['arrival_time'].apply(
         parse_midnight)
-    sub_final_df.trip_headsign = sub_final_df.trip_headsign.str.split(
+    sub_final_df['trip_headsign'] = sub_final_df['trip_headsign'].str.split(
         '-').str[1]
     final_df = sub_final_df[['arrival_time',
                              'route_short_name', 'trip_headsign']].copy()
@@ -165,23 +164,38 @@ def bike_data(station_id):
     Pandas dataframes used to parse the required data, which is returned to frontend as JSON.
 
     Receives from frontend the users chosen station."""
-    # bike_df = pd.read_csv(
-    #     "/home/ubuntu/LimerickTransport/react-flask-app/api/csv_data/LimerickBikeStations.txt")
-    bike_df = pd.read_csv("csv_data/LimerickBikeStations.txt")
-    bike_df['dateStatus'] = bike_df['dateStatus'].apply(parse_time_format)
-    df = bike_df.loc[bike_df['stationId'] == int(station_id)]
-    df.stationId = df.stationId.astype("str")
-    df.docksAvailable = df.docksAvailable.astype("str")
-    df.bikesAvailable = df.bikesAvailable.astype("str")
-    final_df = df[['dateStatus', 'stationId',
-                   'docksAvailable', 'bikesAvailable']].copy()
-    final_df.rename(columns={'dateStatus': 'idA',
-                             'stationId': 'idB',
-                             'docksAvailable': 'targetA',
-                             'bikesAvailable': 'targetB'},
-                    inplace=True)
-    result = final_df.to_json(orient="records")
-    parsed = json.loads(result)
+    DB_HOST = config('DB_HOST')
+    DB_DATABASE = config('DB_DATABASE')
+    DB_USER = config('DB_USER')
+    DB_PASSWORD = config('DB_PASSWORD')
+    conn = psycopg2.connect(database=DB_DATABASE,
+                            host=DB_HOST,
+                            port=5432, user=DB_USER, password=DB_PASSWORD)
+    sql = "SELECT date_status, station_id, docks_available, bikes_available FROM live_bike_data WHERE station_id = " + \
+        str(station_id) + " ORDER BY dt DESC LIMIT 1;"
+    parsed = []
+    try:
+        # create a new cursor
+        cur = conn.cursor()
+        # execute the INSERT statement
+        cur.execute(sql)
+        # commit the changes to the database
+        records = cur.fetchall()
+        print("Print each row and it's columns values")
+        for row in records:
+            json_object = {}
+            json_object['idA'] = row[0]
+            json_object['idB'] = row[1]
+            json_object['targetA'] = row[2]
+            json_object['targetB'] = row[3]
+            parsed.append(json_object)
+        # close communication with the database
+        cur.close()
+    except (Exception, psycopg2.DatabaseError) as error:
+        print(error)
+    finally:
+        if conn is not None:
+            conn.close()
     return {'results': parsed}
 
 
@@ -190,33 +204,25 @@ def airport_data(airport, arrival_flag):
     Information is taken from a csv file that is updated every 20 mins.
     Pandas dataframes used to parse the required data, which is returned to frontend as JSON.
 
-    Receives from frontend the users chosen airport.
-    Is currently hardcoded to Shannon Airport only."""
-    if arrival_flag == "false":
-        # df = pd.read_csv(
-        #     "/home/ubuntu/LimerickTransport/react-flask-app/api/csv_data/AirportsDepartureSchedule.txt")
-        df = pd.read_csv("csv_data/AirportsDepartureSchedule.txt")
-        df = df.loc[df['departure_airport'] == airport].copy()
-        df.rename(columns={'departure_scheduled': 'idA',
-                           'flight_iata': 'idB',
-                           'arrival_airport': 'targetA',
-                           'airline_name': 'targetB',
-                           'flight_status': 'targetC'},
-                  inplace=True)
-        result = df.to_json(orient="records")
-        parsed = json.loads(result)
-        return {'results': parsed}
-    else:
-        # df = pd.read_csv(
-        #     "/home/ubuntu/LimerickTransport/react-flask-app/api/csv_data/AirportsArrivalSchedule.txt")
-        df = pd.read_csv("csv_data/AirportsArrivalSchedule.txt")
-        df = df.loc[df['arrival_airport'] == airport].copy()
-        df.rename(columns={'departure_scheduled': 'idA',
-                           'flight_iata': 'idB',
-                           'arrival_airport': 'targetA',
-                           'airline_name': 'targetB',
-                           'flight_status': 'targetC'},
-                  inplace=True)
-        result = df.to_json(orient="records")
-        parsed = json.loads(result)
-        return {'results': parsed}
+    Receives from frontend the users chosen airport."""
+    current_date = datetime.now().strftime('%Y-%m-%d')
+    airport_iata = "DUB/" if airport == "Dublin" else "SNN/" if airport == "Shannon" else "ORK/"
+    dep_or_arr = "departures/" if arrival_flag == "false" else "arrivals/"
+    airport_url = "http://ec2-52-19-19-167.eu-west-1.compute.amazonaws.com/" + \
+        dep_or_arr + "airportdate/" + airport_iata + current_date
+    pop_scheduled = "arrivalScheduled" if arrival_flag == "false" else "departureScheduled"
+    target_scheduled = "departureScheduled" if arrival_flag == "false" else "arrivalScheduled"
+    target_airport = "arrivalAirport" if arrival_flag == "false" else "departureAirport"
+    response = requests.get(airport_url)
+    data = response.text
+    parsed = json.loads(data)
+    for json_object in parsed:
+        json_object.pop(pop_scheduled)
+        json_object.pop('airport')
+        json_object.pop('flightDate')
+        json_object['idA'] = json_object.pop(target_scheduled)
+        json_object['idB'] = json_object.pop('flightIata')
+        json_object['targetA'] = json_object.pop(target_airport)
+        json_object['targetB'] = json_object.pop('airlineName')
+        json_object['targetC'] = json_object.pop('airportIata')
+    return {'results': parsed}
